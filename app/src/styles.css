@@ -1148,7 +1148,7 @@ body.share-modal-open {
 
 .share-modal__panel {
   position: relative;
-  width: min(100%, 720px);
+  width: min(100%, 420px);
   max-height: calc(100vh - 2rem);
   overflow: auto;
   background: var(--surface);
@@ -1180,6 +1180,8 @@ body.share-modal-open {
   border: 1px solid var(--border);
   border-radius: var(--radius);
   padding: 1rem;
+  max-width: 360px;
+  margin: 0 auto;
 }
 
 .share-card__mode {
@@ -1191,15 +1193,85 @@ body.share-modal-open {
   text-transform: uppercase;
 }
 
+.share-card__lineup {
+  display: grid;
+  grid-template-columns: repeat(5, minmax(0, 1fr));
+  gap: 0.35rem;
+  margin-bottom: 0.85rem;
+}
+
+.share-card__member {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  min-width: 0;
+}
+
+.share-card__member-role {
+  font-family: var(--font-display);
+  font-size: 0.58rem;
+  color: var(--accent);
+  letter-spacing: 0.06em;
+  margin-bottom: 0.25rem;
+  text-align: center;
+  line-height: 1.1;
+}
+
+.share-card__member-card {
+  width: 100%;
+  background: var(--surface);
+  border-radius: 8px;
+  padding: 0.35rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0.25rem;
+}
+
+.share-card__member-logo {
+  max-height: 1.1rem;
+  max-width: 100%;
+  width: auto;
+  object-fit: contain;
+  display: block;
+}
+
+.share-card__member-logo--fallback {
+  font-size: 0.45rem;
+  color: var(--muted);
+  text-align: center;
+  line-height: 1.1;
+  max-height: 1.1rem;
+  overflow: hidden;
+}
+
+.share-card__member-photo {
+  width: 100%;
+  aspect-ratio: 1;
+  object-fit: cover;
+  border-radius: 6px;
+  display: block;
+}
+
+.share-card__member-photo--placeholder {
+  background: #2a2433;
+  border: 1px dashed var(--border);
+}
+
+.share-card__member-name {
+  font-size: 0.52rem;
+  font-weight: 700;
+  text-align: center;
+  line-height: 1.15;
+  width: 100%;
+  word-break: break-word;
+}
+
 .share-card__hero {
   margin-bottom: 0.85rem;
 }
 
 .share-card__goals {
-  margin-bottom: 0.85rem;
-}
-
-.share-card__breakdown {
   margin-bottom: 0.65rem;
 }
 

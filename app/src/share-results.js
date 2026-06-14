@@ -1,10 +1,25 @@
-import { SLOT_LABELS } from './genres.js';
+import { SLOTS, SLOT_LABELS } from './genres.js';
+import { formatMusicianName } from './musician-display.js';
+import { mediaAssetUrl } from './media.js';
 import { RANK_META, rankLabel } from './ranks.js';
 
 const GOAL_KEYS = ['charts', 'tour', 'reviews'];
 
 export function buildSharePayload(game) {
   const { results, mode } = game;
+  const musicians = SLOTS.map((slot) => {
+    const pick = game.picks.find((entry) => entry.slot === slot);
+    if (!pick) return null;
+    return {
+      slot,
+      slotLabel: (SLOT_LABELS[slot] ?? slot).toUpperCase(),
+      name: formatMusicianName(pick.musician),
+      imageUrl: pick.musician.imageUrl ?? null,
+      bandLogoUrl: pick.spin.logoUrl ?? null,
+      bandName: pick.spin.bandName ?? pick.musician.band ?? null,
+    };
+  }).filter(Boolean);
+
   return {
     mode: mode === 'daily' ? 'Daily' : 'Practice',
     grade: results.grade,
@@ -12,31 +27,9 @@ export function buildSharePayload(game) {
     supergroup: results.supergroup,
     goals: results.goals,
     breakdown: results.breakdown,
+    musicians,
     url: `${window.location.origin}${window.location.pathname}`,
   };
-}
-
-export function formatShareText(payload) {
-  const lines = [
-    `Supergroup — ${payload.mode}`,
-    `Grade: ${payload.grade} (${payload.gradeLabel})${payload.supergroup ? ' 👑 Triple crown!' : ''}`,
-    '',
-    ...GOAL_KEYS.map((key) => {
-      const goal = payload.goals[key];
-      const title = key.charAt(0).toUpperCase() + key.slice(1);
-      return `${title.padEnd(8)} ${goal.rank}  ${goal.score}/100  ${goal.status}`;
-    }),
-    '',
-    'Slot ratings',
-    ...payload.breakdown.map((row) => {
-      const slot = SLOT_LABELS[row.slot] ?? row.slot;
-      const band = row.band ? ` (${row.band})` : '';
-      return `${slot.padEnd(9)} ${row.name}${band}  ${row.rating ?? '—'}`;
-    }),
-    '',
-    payload.url,
-  ];
-  return lines.join('\n');
 }
 
 function renderShareGoalCard(key, goal) {
@@ -50,10 +43,32 @@ function renderShareGoalCard(key, goal) {
     </div>`;
 }
 
+function renderShareMusicianCard(member) {
+  const logo = member.bandLogoUrl
+    ? `<img src="${member.bandLogoUrl}" alt="" class="share-card__member-logo" loading="lazy" decoding="async" />`
+    : `<span class="share-card__member-logo share-card__member-logo--fallback">${member.bandName ?? '—'}</span>`;
+  const photo = member.imageUrl
+    ? `<img src="${member.imageUrl}" alt="" class="share-card__member-photo" loading="lazy" decoding="async" />`
+    : `<div class="share-card__member-photo share-card__member-photo--placeholder" aria-hidden="true"></div>`;
+
+  return `
+    <div class="share-card__member">
+      <div class="share-card__member-role">${member.slotLabel}</div>
+      <div class="share-card__member-card">
+        ${logo}
+        ${photo}
+        <div class="share-card__member-name">${member.name}</div>
+      </div>
+    </div>`;
+}
+
 export function renderShareCardHTML(payload) {
   return `
     <div class="share-card results-hero--rank-${payload.grade}${payload.supergroup ? ' share-card--super' : ''}">
       <p class="share-card__mode">Supergroup · ${payload.mode}</p>
+      <div class="share-card__lineup">
+        ${payload.musicians.map((member) => renderShareMusicianCard(member)).join('')}
+      </div>
       <div class="share-card__hero results-hero results-hero--rank-${payload.grade}${payload.supergroup ? ' results-hero--super' : ''}">
         <div class="results-hero__grade">${payload.grade}</div>
         <div class="results-hero__label">${payload.gradeLabel}</div>
@@ -61,20 +76,6 @@ export function renderShareCardHTML(payload) {
       </div>
       <div class="goals-grid share-card__goals">
         ${GOAL_KEYS.map((key) => renderShareGoalCard(key, payload.goals[key])).join('')}
-      </div>
-      <div class="breakdown share-card__breakdown">
-        <h3>Slot ratings</h3>
-        ${payload.breakdown
-          .map(
-            (row) => `
-          <div class="breakdown-row">
-            <span>${SLOT_LABELS[row.slot]}</span>
-            <span>${row.name}</span>
-            <span class="breakdown-row__band">${row.band ?? '—'}</span>
-            <span>${row.rating ?? '—'}</span>
-          </div>`
-          )
-          .join('')}
       </div>
       <p class="share-card__url">${payload.url}</p>
     </div>`;
@@ -108,13 +109,121 @@ function drawRoundRect(ctx, x, y, w, h, r) {
   ctx.closePath();
 }
 
+function loadImage(url) {
+  if (!url) return Promise.resolve(null);
+  return new Promise((resolve) => {
+    const img = new Image();
+    img.crossOrigin = 'anonymous';
+    img.onload = () => resolve(img);
+    img.onerror = () => resolve(null);
+    img.src = mediaAssetUrl(url);
+  });
+}
+
+function drawImageCover(ctx, img, x, y, w, h, radius) {
+  const scale = Math.max(w / img.width, h / img.height);
+  const sw = w / scale;
+  const sh = h / scale;
+  const sx = (img.width - sw) / 2;
+  const sy = (img.height - sh) / 2;
+
+  ctx.save();
+  drawRoundRect(ctx, x, y, w, h, radius);
+  ctx.clip();
+  ctx.drawImage(img, sx, sy, sw, sh, x, y, w, h);
+  ctx.restore();
+}
+
+function drawImageContain(ctx, img, x, y, w, h) {
+  const scale = Math.min(w / img.width, h / img.height);
+  const dw = img.width * scale;
+  const dh = img.height * scale;
+  ctx.drawImage(img, x + (w - dw) / 2, y + (h - dh) / 2, dw, dh);
+}
+
+function drawWrappedCenterText(ctx, text, x, y, maxWidth, lineHeight, maxLines) {
+  const lines = wrapLines(ctx, text, maxWidth).slice(0, maxLines);
+  lines.forEach((line, index) => {
+    ctx.fillText(line, x, y + index * lineHeight);
+  });
+  return lines.length;
+}
+
+async function preloadShareImages(musicians) {
+  const entries = await Promise.all(
+    musicians.map(async (member) => ({
+      member,
+      photo: await loadImage(member.imageUrl),
+      logo: await loadImage(member.bandLogoUrl),
+    }))
+  );
+  return entries;
+}
+
+function drawMusicianCards(ctx, payload, images, layout) {
+  const { padding, cardGap, cardWidth, cardPad, logoHeight, photoSize, lineupY } = layout;
+  const cardHeight = cardPad * 2 + logoHeight + 8 + photoSize + 8 + 44;
+
+  images.forEach(({ member, photo, logo }, index) => {
+    const cardX = padding + index * (cardWidth + cardGap);
+    const roleY = lineupY + 14;
+
+    ctx.fillStyle = '#ff4d8d';
+    ctx.font = '400 11px "Bebas Neue", sans-serif';
+    ctx.textAlign = 'center';
+    ctx.fillText(member.slotLabel, cardX + cardWidth / 2, roleY);
+
+    const cardY = roleY + 10;
+    drawRoundRect(ctx, cardX, cardY, cardWidth, cardHeight, 10);
+    ctx.fillStyle = '#16121c';
+    ctx.fill();
+
+    const innerX = cardX + cardPad;
+    const innerW = cardWidth - cardPad * 2;
+    let cursorY = cardY + cardPad;
+
+    if (logo) {
+      drawImageContain(ctx, logo, innerX, cursorY, innerW, logoHeight);
+    } else if (member.bandName) {
+      ctx.fillStyle = '#9a8aa8';
+      ctx.font = '500 9px "DM Sans", system-ui, sans-serif';
+      drawWrappedCenterText(ctx, member.bandName, cardX + cardWidth / 2, cursorY + 12, innerW, 11, 2);
+    }
+
+    cursorY += logoHeight + 8;
+    if (photo) {
+      drawImageCover(ctx, photo, innerX, cursorY, innerW, photoSize, 8);
+    } else {
+      drawRoundRect(ctx, innerX, cursorY, innerW, photoSize, 8);
+      ctx.fillStyle = '#2a2433';
+      ctx.fill();
+    }
+
+    cursorY += photoSize + 10;
+    ctx.fillStyle = '#f4eef8';
+    ctx.font = '700 11px "DM Sans", system-ui, sans-serif';
+    drawWrappedCenterText(ctx, member.name, cardX + cardWidth / 2, cursorY, innerW - 4, 13, 3);
+  });
+
+  return cardHeight + 24;
+}
+
 export async function renderShareImage(payload) {
-  const width = 640;
-  const padding = 28;
+  const width = 720;
+  const height = 1280;
+  const padding = 24;
+  const cardGap = 6;
+  const cardWidth = (width - padding * 2 - cardGap * 4) / 5;
+  const cardPad = 8;
+  const logoHeight = 22;
+  const photoSize = cardWidth - cardPad * 2;
   const goalWidth = (width - padding * 2 - 16) / 3;
-  const rowHeight = 34;
-  const breakdownHeight = 44 + payload.breakdown.length * rowHeight;
-  const height = 560 + breakdownHeight;
+  const heroH = payload.supergroup ? 148 : 124;
+  const goalsH = 132;
+  const cardHeight = cardPad * 2 + logoHeight + 8 + photoSize + 8 + 44;
+  const lineupHeight = cardHeight + 24;
+  const contentHeight = lineupHeight + 8 + heroH + 20 + goalsH;
+  const contentStartY = Math.max(58, Math.floor((height - contentHeight - 48) / 2));
 
   const canvas = document.createElement('canvas');
   canvas.width = width;
@@ -122,17 +231,28 @@ export async function renderShareImage(payload) {
   const ctx = canvas.getContext('2d');
   const meta = RANK_META[payload.grade] ?? RANK_META.F;
   const rankColor = meta.color;
+  const images = await preloadShareImages(payload.musicians ?? []);
 
   ctx.fillStyle = '#0c0a0f';
   ctx.fillRect(0, 0, width, height);
 
   ctx.fillStyle = '#9a8aa8';
-  ctx.font = '500 14px "DM Sans", system-ui, sans-serif';
+  ctx.font = '500 13px "DM Sans", system-ui, sans-serif';
   ctx.textAlign = 'center';
-  ctx.fillText(`SUPERGROUP · ${payload.mode.toUpperCase()}`, width / 2, 36);
+  ctx.fillText(`SUPERGROUP · ${payload.mode.toUpperCase()}`, width / 2, contentStartY - 16);
 
-  const heroY = 52;
-  const heroH = payload.supergroup ? 148 : 124;
+  const lineupY = contentStartY;
+  drawMusicianCards(ctx, payload, images, {
+    padding,
+    cardGap,
+    cardWidth,
+    cardPad,
+    logoHeight,
+    photoSize,
+    lineupY,
+  });
+
+  const heroY = lineupY + lineupHeight + 8;
   drawRoundRect(ctx, padding, heroY, width - padding * 2, heroH, 12);
   ctx.fillStyle = '#16121c';
   ctx.fill();
@@ -159,9 +279,8 @@ export async function renderShareImage(payload) {
     const goal = payload.goals[key];
     const goalMeta = RANK_META[goal.rank] ?? RANK_META.F;
     const x = padding + index * (goalWidth + 8);
-    const cardH = 132;
 
-    drawRoundRect(ctx, x, goalsY, goalWidth, cardH, 12);
+    drawRoundRect(ctx, x, goalsY, goalWidth, goalsH, 12);
     ctx.fillStyle = '#16121c';
     ctx.fill();
     ctx.strokeStyle = goalMeta.color;
@@ -191,43 +310,10 @@ export async function renderShareImage(payload) {
     });
   });
 
-  const breakdownY = goalsY + 152;
-  drawRoundRect(ctx, padding, breakdownY, width - padding * 2, breakdownHeight, 12);
-  ctx.fillStyle = '#16121c';
-  ctx.fill();
-  ctx.strokeStyle = '#2e2438';
-  ctx.lineWidth = 1;
-  ctx.stroke();
-
-  ctx.fillStyle = '#f4eef8';
-  ctx.font = '400 22px "Bebas Neue", sans-serif';
-  ctx.textAlign = 'left';
-  ctx.fillText('SLOT RATINGS', padding + 18, breakdownY + 30);
-
-  payload.breakdown.forEach((row, index) => {
-    const y = breakdownY + 54 + index * rowHeight;
-    const slot = SLOT_LABELS[row.slot] ?? row.slot;
-    ctx.fillStyle = '#f4eef8';
-    ctx.font = '500 14px "DM Sans", system-ui, sans-serif';
-    ctx.fillText(slot, padding + 18, y);
-
-    ctx.fillText(row.name, padding + 108, y);
-
-    ctx.fillStyle = '#7b5cff';
-    ctx.font = '500 13px "DM Sans", system-ui, sans-serif';
-    ctx.fillText(row.band ?? '—', padding + 280, y);
-
-    ctx.fillStyle = '#f4eef8';
-    ctx.font = '600 14px "DM Sans", system-ui, sans-serif';
-    ctx.textAlign = 'right';
-    ctx.fillText(String(row.rating ?? '—'), width - padding - 18, y);
-    ctx.textAlign = 'left';
-  });
-
   ctx.fillStyle = '#9a8aa8';
   ctx.font = '500 12px "DM Sans", system-ui, sans-serif';
   ctx.textAlign = 'center';
-  ctx.fillText(payload.url, width / 2, height - 18);
+  ctx.fillText(payload.url, width / 2, height - 28);
 
   return new Promise((resolve) => {
     canvas.toBlob((blob) => resolve(blob), 'image/png');
@@ -246,16 +332,14 @@ export function openShareModal(game) {
     <div class="share-modal__backdrop" data-share-close></div>
     <div class="share-modal__panel" role="dialog" aria-labelledby="share-modal-title" aria-modal="true">
       <div class="share-modal__header">
-        <h2 id="share-modal-title">Share results</h2>
+        <h2 id="share-modal-title">Download results</h2>
         <button type="button" class="btn-ghost" data-share-close aria-label="Close">Close</button>
       </div>
       <div class="share-modal__preview" id="share-card-preview">
         ${renderShareCardHTML(payload)}
       </div>
       <div class="share-modal__actions">
-        <button type="button" class="btn-primary" id="share-copy">Copy text</button>
-        <button type="button" class="btn-secondary" id="share-native">Share…</button>
-        <button type="button" class="btn-secondary" id="share-image">Save image</button>
+        <button type="button" class="btn-primary" id="share-image">Download image</button>
       </div>
       <p class="share-modal__status" id="share-status" hidden></p>
     </div>`;
@@ -263,7 +347,6 @@ export function openShareModal(game) {
   document.body.appendChild(modal);
   document.body.classList.add('share-modal-open');
 
-  const text = formatShareText(payload);
   const close = () => {
     modal.remove();
     document.body.classList.remove('share-modal-open');
@@ -281,45 +364,6 @@ export function openShareModal(game) {
     el.addEventListener('click', close);
   });
 
-  document.getElementById('share-copy')?.addEventListener('click', async () => {
-    try {
-      await navigator.clipboard.writeText(text);
-      setStatus('Copied to clipboard.');
-    } catch {
-      setStatus('Could not copy — try Save image instead.', 'error');
-    }
-  });
-
-  document.getElementById('share-native')?.addEventListener('click', async () => {
-    try {
-      const blob = await renderShareImage(payload);
-      const file = new File([blob], 'supergroup-results.png', { type: 'image/png' });
-      if (navigator.share?.canShare?.({ files: [file] })) {
-        await navigator.share({
-          title: `Supergroup ${payload.grade}`,
-          text,
-          files: [file],
-        });
-        close();
-        return;
-      }
-      if (navigator.share) {
-        await navigator.share({
-          title: `Supergroup ${payload.grade}`,
-          text,
-        });
-        close();
-        return;
-      }
-      await navigator.clipboard.writeText(text);
-      setStatus('Sharing not supported here — copied text instead.');
-    } catch (err) {
-      if (err?.name !== 'AbortError') {
-        setStatus('Share cancelled or unavailable.', 'error');
-      }
-    }
-  });
-
   document.getElementById('share-image')?.addEventListener('click', async () => {
     try {
       const blob = await renderShareImage(payload);
@@ -329,7 +373,7 @@ export function openShareModal(game) {
       link.download = `supergroup-${payload.grade.toLowerCase()}.png`;
       link.click();
       URL.revokeObjectURL(url);
-      setStatus('Image saved.');
+      setStatus('Image downloaded.');
     } catch {
       setStatus('Could not save image.', 'error');
     }

@@ -615,7 +615,7 @@ function renderResults() {
 
     <div class="actions-row results-reveal results-reveal--actions">
       <button class="btn-primary" id="play-again">${game.mode === 'daily' ? 'Play again' : 'New game'}</button>
-      <button class="btn-secondary" id="share-results">Share</button>
+      <button class="btn-secondary" id="share-results">Download</button>
       <button class="btn-secondary" id="home-btn">Home</button>
     </div>
     </div>
