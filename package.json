@@ -1,6 +1,6 @@
 {
   "name": "supergroup",
-  "version": "3.4.0",
+  "version": "3.4.1",
   "description": "Supergroup — dream band pick game",
   "private": true,
   "dependencies": {
