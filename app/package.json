@@ -1,0 +1,14 @@
+{
+  "name": "supergroup-app",
+  "private": true,
+  "version": "3.4.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite --host",
+    "build": "vite build",
+    "preview": "vite preview --host"
+  },
+  "devDependencies": {
+    "vite": "^6.0.0"
+  }
+}

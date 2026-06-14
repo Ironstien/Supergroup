@@ -1,0 +1,114 @@
+Supergroup — Active Band Roster (website)
+Synced from data/raw/bands.json after bands-roster.txt curation
+Total: 106 bands (91 logos, 0 member photos — photos still fetching)
+Data built: 2026-06-13T20:16:05.070Z
+
+Format: Band Name (era) — N members — logo: ok|missing
+============================================================
+
+3 Doors Down (00s) — 4 members — logo: ok
+AC/DC (80s) — 5 members — logo: ok
+Alice in Chains (90s) — 4 members — logo: ok
+Amyl and the Sniffers (10s) — 4 members — logo: ok
+Anthrax (80s) — 5 members — logo: ok
+At the Drive-In (90s) — 5 members — logo: ok
+Audioslave (00s) — 4 members — logo: ok
+Avenged Sevenfold (00s) — 5 members — logo: ok
+Bad Religion (80s) — 4 members — logo: ok
+Black Flag (80s) — 4 members — logo: ok
+blink-182 (90s) — 3 members — logo: ok
+Blur (90s) — 4 members — logo: ok
+Bon Jovi (80s) — 4 members — logo: ok
+Bush (90s) — 4 members — logo: ok
+Coal Chamber (90s) — 4 members — logo: missing
+Coldplay (00s) — 4 members — logo: ok
+Creed (90s) — 4 members — logo: ok
+Dead Kennedys (80s) — 4 members — logo: ok
+Def Leppard (80s) — 5 members — logo: ok
+Deftones (90s) — 4 members — logo: ok
+Descendents (90s) — 4 members — logo: ok
+Dire Straits (80s) — 3 members — logo: ok
+Disturbed (00s) — 4 members — logo: ok
+Down (90s) — 5 members — logo: missing
+Everclear (90s) — 4 members — logo: ok
+Faith No More (90s) — 5 members — logo: ok
+Foo Fighters (90s) — 4 members — logo: ok
+Gojira (00s) — 4 members — logo: ok
+Green Day (90s) — 3 members — logo: ok
+Guns N' Roses (80s) — 5 members — logo: ok
+Helmet (90s) — 4 members — logo: missing
+Iron Maiden (80s) — 5 members — logo: ok
+Jane's Addiction (80s) — 4 members — logo: ok
+Judas Priest (80s) — 5 members — logo: ok
+Korn (90s) — 5 members — logo: ok
+Kyuss (90s) — 4 members — logo: missing
+L7 (90s) — 4 members — logo: ok
+Lamb of God (00s) — 5 members — logo: ok
+Limp Bizkit (90s) — 5 members — logo: ok
+Linkin Park (00s) — 5 members — logo: ok
+Live (90s) — 4 members — logo: ok
+Mastodon (00s) — 4 members — logo: missing
+Matchbox Twenty (90s) — 5 members — logo: ok
+Megadeth (80s) — 4 members — logo: ok
+Melvins (80s) — 3 members — logo: missing
+Metallica (80s) — 4 members — logo: missing
+Misfits (80s) — 4 members — logo: missing
+Mötley Crüe (80s) — 4 members — logo: ok
+Motörhead (80s) — 3 members — logo: ok
+Mudvayne (00s) — 4 members — logo: ok
+Muse (00s) — 3 members — logo: missing
+My Chemical Romance (00s) — 5 members — logo: ok
+Nickelback (00s) — 4 members — logo: ok
+Nirvana (90s) — 3 members — logo: ok
+NOFX (90s) — 4 members — logo: ok
+Oasis (90s) — 5 members — logo: ok
+Ozzy Osbourne (80s) — 4 members — logo: ok
+Pantera (90s) — 4 members — logo: ok
+Parkway Drive (10s) — 5 members — logo: ok
+Pearl Jam (90s) — 5 members — logo: ok
+Pennywise (90s) — 4 members — logo: missing
+Periphery (10s) — 5 members — logo: ok
+Pixies (80s) — 4 members — logo: ok
+Primus (90s) — 3 members — logo: ok
+Queens of the Stone Age (00s) — 3 members — logo: missing
+R.E.M. (80s) — 4 members — logo: ok
+Radiohead (90s) — 5 members — logo: ok
+Rage Against the Machine (90s) — 4 members — logo: missing
+Rammstein (90s) — 6 members — logo: ok
+Rancid (90s) — 4 members — logo: ok
+Red Hot Chili Peppers (90s) — 4 members — logo: ok
+Refused (90s) — 5 members — logo: ok
+Regurgitator (90s) — 4 members — logo: ok
+Sepultura (90s) — 4 members — logo: ok
+Shihad (90s) — 4 members — logo: ok
+Silverchair (90s) — 3 members — logo: ok
+Slayer (80s) — 4 members — logo: ok
+Slipknot (00s) — 5 members — logo: ok
+Sonic Youth (80s) — 4 members — logo: ok
+Soulfly (90s) — 4 members — logo: ok
+Soundgarden (90s) — 4 members — logo: ok
+Spiderbait (90s) — 3 members — logo: ok
+Stone Temple Pilots (90s) — 4 members — logo: ok
+Sum 41 (00s) — 4 members — logo: ok
+System of a Down (00s) — 4 members — logo: ok
+Talking Heads (80s) — 4 members — logo: ok
+Testament (80s) — 5 members — logo: ok
+The Clash (80s) — 4 members — logo: ok
+The Cure (80s) — 3 members — logo: ok
+The Killers (00s) — 4 members — logo: missing
+The Living End (90s) — 3 members — logo: ok
+The Offspring (90s) — 4 members — logo: ok
+The Smashing Pumpkins (90s) — 4 members — logo: ok
+The Smiths (80s) — 4 members — logo: ok
+The Used (00s) — 4 members — logo: ok
+The White Stripes (00s) — 2 members — logo: ok
+Tool (90s) — 4 members — logo: ok
+Turnstile (20s) — 4 members — logo: ok
+Twelve Foot Ninja (10s) — 5 members — logo: ok
+U2 (80s) — 4 members — logo: ok
+Van Halen (80s) — 4 members — logo: ok
+Weezer (90s) — 4 members — logo: ok
+Wet Leg (20s) — 4 members — logo: missing
+White Zombie (90s) — 4 members — logo: missing
+Whitesnake (80s) — 5 members — logo: ok
+Wolfmother (00s) — 3 members — logo: ok

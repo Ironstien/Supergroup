@@ -1,0 +1,14 @@
+{
+  "$schema": "https://openapi.vercel.sh/vercel.json",
+  "installCommand": "npm install && npm install --prefix app",
+  "buildCommand": "npm run build --prefix app",
+  "outputDirectory": "app/dist",
+  "functions": {
+    "api/index.mjs": {
+      "maxDuration": 120
+    }
+  },
+  "rewrites": [
+    { "source": "/api/(.*)", "destination": "/api" }
+  ]
+}

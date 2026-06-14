@@ -1,0 +1,2044 @@
+{
+  "version": 1,
+  "generatedAt": "2026-06-14T08:22:28.915Z",
+  "count": 106,
+  "bands": [
+    {
+      "key": "3-doors-down|00s",
+      "name": "3 Doors Down",
+      "era": "00s",
+      "tier": "B",
+      "genres": [
+        "rock"
+      ],
+      "logoUrl": "/media/bands/3-doors-down-00s.png?v=1781403918688",
+      "logoStatus": "ok",
+      "logoSource": "manual",
+      "memberIds": [
+        "brad-arnold-00s-3-doors-down",
+        "chris-henderson-00s-3-doors-down",
+        "matt-roberts-00s-3-doors-down",
+        "todd-harrell-00s-3-doors-down"
+      ],
+      "hidden": false
+    },
+    {
+      "key": "ac-dc|80s",
+      "name": "AC/DC",
+      "era": "80s",
+      "tier": "A",
+      "genres": [
+        "rock"
+      ],
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Logo_ACDC_pwrup.svg/1280px-Logo_ACDC_pwrup.svg.png?_=20240318211340",
+      "logoStatus": "ok",
+      "logoSource": "manual",
+      "memberIds": [
+        "brian-johnson-80s-ac-dc",
+        "angus-young-80s-ac-dc",
+        "malcolm-young-80s-ac-dc",
+        "cliff-williams-80s-ac-dc",
+        "phil-rudd-80s-ac-dc"
+      ],
+      "hidden": false
+    },
+    {
+      "key": "alice-in-chains|90s",
+      "name": "Alice in Chains",
+      "era": "90s",
+      "tier": "A",
+      "genres": [
+        "alternative"
+      ],
+      "logoUrl": "/media/bands/alice-in-chains-90s.png?v=1781404232659",
+      "logoStatus": "ok",
+      "logoSource": "manual",
+      "memberIds": [
+        "layne-staley-90s-alice-in-chains",
+        "jerry-cantrell-90s-alice-in-chains",
+        "mike-starr-90s-alice-in-chains",
+        "sean-kinney-90s-alice-in-chains"
+      ],
+      "hidden": false
+    },
+    {
+      "key": "anthrax|80s",
+      "name": "Anthrax",
+      "era": "80s",
+      "tier": "A",
+      "genres": [
+        "metal"
+      ],
+      "logoUrl": "/media/bands/anthrax-80s.png?v=1781404286734",
+      "logoStatus": "ok",
+      "logoSource": "manual",
+      "memberIds": [
+        "joey-belladonna-80s-anthrax",
+        "scott-ian-80s-anthrax",
+        "dan-spitz-80s-anthrax",
+        "frank-bello-80s-anthrax",
+        "charlie-benante-80s-anthrax"
+      ],
+      "hidden": false
+    },
+    {
+      "key": "at-the-drive-in|90s",
+      "name": "At the Drive-In",
+      "era": "90s",
+      "tier": "A",
+      "genres": [
+        "punk",
+        "alternative"
+      ],
+      "logoUrl": "/media/bands/at-the-drive-in-90s.png?v=1781404437248",
+      "logoStatus": "ok",
+      "logoSource": "manual",
+      "memberIds": [
+        "cedric-bixler-zavala-90s-at-the-drive-in",
+        "omar-rodriguez-lopez-90s-at-the-drive-in",
+        "jim-ward-90s-at-the-drive-in",
+        "paul-hinojos-90s-at-the-drive-in",
+        "tony-hajjar-90s-at-the-drive-in"
+      ],
+      "hidden": false
+    },
+    {
+      "key": "audioslave|00s",
+      "name": "Audioslave",
+      "era": "00s",
+      "tier": "A",
+      "genres": [
+        "rock"
+      ],
+      "logoUrl": "/media/bands/audioslave-00s.png?v=1781404458174",
+      "logoStatus": "ok",
+      "logoSource": "manual",
+      "memberIds": [
+        "chris-cornell-00s-audioslave",
+        "tom-morello-00s-audioslave",
+        "tim-commerford-00s-audioslave",
+        "brad-wilk-00s-audioslave"
+      ],
+      "hidden": false
+    },
+    {
+      "key": "avenged-sevenfold|00s",
+      "name": "Avenged Sevenfold",
+      "era": "00s",
+      "tier": "A",
+      "genres": [
+        "metal"
+      ],
+      "logoUrl": "/media/bands/avenged-sevenfold-00s.png?v=1781404484602",
+      "logoStatus": "ok",
+      "logoSource": "manual",
+      "memberIds": [
+        "m-shadows-00s-avenged-sevenfold",
+        "synyster-gates-00s-avenged-sevenfold",
+        "zacky-vengeance-00s-avenged-sevenfold",
+        "johnny-christ-00s-avenged-sevenfold",
+        "the-rev-00s-avenged-sevenfold"
+      ],
+      "hidden": false
+    },
+    {
+      "key": "bad-religion|80s",
+      "name": "Bad Religion",
+      "era": "80s",
+      "tier": "A",
+      "genres": [
+        "punk"
+      ],
+      "logoUrl": "/media/bands/bad-religion-80s.png?v=1781404531030",
+      "logoStatus": "ok",
+      "logoSource": "manual",
+      "memberIds": [
+        "greg-graffin-80s-bad-religion",
+        "brett-gurewitz-80s-bad-religion",
+        "jay-bentley-80s-bad-religion",
+        "pete-finestone-80s-bad-religion"
+      ],
+      "hidden": false
+    },
+    {
+      "key": "black-flag|80s",
+      "name": "Black Flag",
+      "era": "80s",
+      "tier": "A",
+      "genres": [
+        "punk"
+      ],
+      "logoUrl": "/media/bands/black-flag-80s.png?v=1781404562594",
+      "logoStatus": "ok",
+      "logoSource": "manual",
+      "memberIds": [
+        "henry-rollins-80s-black-flag",
+        "greg-ginn-80s-black-flag",
+        "chuck-dukowski-80s-black-flag",
+        "bill-stevenson-80s-black-flag"
+      ],
+      "hidden": false
+    },
+    {
+      "key": "blink-182|90s",
+      "name": "blink-182",
+      "era": "90s",
+      "tier": "A",
+      "genres": [
+        "punk"
+      ],
+      "logoUrl": "/media/bands/blink-182-90s.png?v=1781404587997",
+      "logoStatus": "ok",
+      "logoSource": "manual",
+      "memberIds": [
+        "mark-hoppus-90s-blink-182",
+        "tom-delonge-90s-blink-182",
+        "travis-barker-90s-blink-182"
+      ],
+      "hidden": false
+    },
+    {
+      "key": "blur|90s",
+      "name": "Blur",
+      "era": "90s",
+      "tier": "A",
+      "genres": [
+        "rock"
+      ],
+      "logoUrl": "/media/bands/blur-90s.png?v=1781404606148",
+      "logoStatus": "ok",
+      "logoSource": "manual",
+      "memberIds": [
+        "damon-albarn-90s-blur",
+        "graham-coxon-90s-blur",
+        "alex-james-90s-blur",
+        "dave-rowntree-90s-blur"
+      ],
+      "hidden": false
+    },
+    {
+      "key": "bon-jovi|80s",
+      "name": "Bon Jovi",
+      "era": "80s",
+      "tier": "A",
+      "genres": [
+        "rock"
+      ],
+      "logoUrl": "/media/bands/bon-jovi-80s.png?v=1781404621382",
+      "logoStatus": "ok",
+      "logoSource": "manual",
+      "memberIds": [
+        "jon-bon-jovi-80s-bon-jovi",
+        "richie-sambora-80s-bon-jovi",
+        "alec-john-such-80s-bon-jovi",
+        "tico-torres-80s-bon-jovi"
+      ],
+      "hidden": false
+    },
+    {
+      "key": "bush|90s",
+      "name": "Bush",
+      "era": "90s",
+      "tier": "B",
+      "genres": [
+        "rock"
+      ],
+      "logoUrl": "/media/bands/bush-90s.png?v=1781404754024",
+      "logoStatus": "ok",
+      "logoSource": "manual",
+      "memberIds": [
+        "gavin-rossdale-90s-bush",
+        "nigel-pulsford-90s-bush",
+        "dave-parsons-90s-bush",
+        "robin-goodridge-90s-bush"
+      ],
+      "hidden": false
+    },
+    {
+      "key": "coal-chamber|90s",
+      "name": "Coal Chamber",
+      "era": "90s",
+      "tier": "B",
+      "genres": [
+        "metal"
+      ],
+      "logoUrl": "/media/bands/coal-chamber-90s.png?v=1781404777652",
+      "logoStatus": "ok",
+      "logoSource": "manual",
+      "memberIds": [
+        "dez-fafara-90s-coal-chamber",
+        "miguel-meegs-rascon-90s-coal-chamber",
+        "mike-cox-90s-coal-chamber",
+        "rayna-foss-90s-coal-chamber"
+      ],
+      "hidden": false
+    },
+    {
+      "key": "coldplay|00s",
+      "name": "Coldplay",
+      "era": "00s",
+      "tier": "A",
+      "genres": [
+        "alternative"
+      ],
+      "logoUrl": "/media/bands/coldplay-00s.png?v=1781404854018",
+      "logoStatus": "ok",
+      "logoSource": "manual",
+      "memberIds": [
+        "chris-martin-00s-coldplay",
+        "jonny-buckland-00s-coldplay",
+        "guy-berryman-00s-coldplay",
+        "will-champion-00s-coldplay"
+      ],
+      "hidden": false
+    },
+    {
+      "key": "creed|90s",
+      "name": "Creed",
+      "era": "90s",
+      "tier": "B",
+      "genres": [
+        "rock"
+      ],
+      "logoUrl": "/media/bands/creed-90s.png?v=1781404875022",
+      "logoStatus": "ok",
+      "logoSource": "manual",
+      "memberIds": [
+        "scott-stapp-90s-creed",
+        "mark-tremonti-90s-creed",
+        "brian-marshall-90s-creed",
+        "scott-phillips-90s-creed"
+      ],
+      "hidden": false
+    },
+    {
+      "key": "dead-kennedys|80s",
+      "name": "Dead Kennedys",
+      "era": "80s",
+      "tier": "A",
+      "genres": [
+        "punk"
+      ],
+      "logoUrl": "/media/bands/dead-kennedys-80s.png?v=1781404916582",
+      "logoStatus": "ok",
+      "logoSource": "manual",
+      "memberIds": [
+        "jello-biafra-80s-dead-kennedys",
+        "east-bay-ray-80s-dead-kennedys",
+        "klaus-flouride-80s-dead-kennedys",
+        "d-h-peligro-80s-dead-kennedys"
+      ],
+      "hidden": false
+    },
+    {
+      "key": "def-leppard|80s",
+      "name": "Def Leppard",
+      "era": "80s",
+      "tier": "A",
+      "genres": [
+        "rock"
+      ],
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/9/93/Def_Leppard_logo.png",
+      "logoStatus": "ok",
+      "logoSource": "manual",
+      "memberIds": [
+        "joe-elliott-80s-def-leppard",
+        "steve-clark-80s-def-leppard",
+        "phil-collen-80s-def-leppard",
+        "rick-savage-80s-def-leppard",
+        "rick-allen-80s-def-leppard"
+      ],
+      "hidden": false
+    },
+    {
+      "key": "deftones|90s",
+      "name": "Deftones",
+      "era": "90s",
+      "tier": "A",
+      "genres": [
+        "metal"
+      ],
+      "logoUrl": "/media/bands/deftones-90s.png?v=1781404935309",
+      "logoStatus": "ok",
+      "logoSource": "manual",
+      "memberIds": [
+        "chino-moreno-90s-deftones",
+        "stephen-carpenter-90s-deftones",
+        "chi-cheng-90s-deftones",
+        "abe-cunningham-90s-deftones"
+      ],
+      "hidden": false
+    },
+    {
+      "key": "descendents|90s",
+      "name": "Descendents",
+      "era": "90s",
+      "tier": "B",
+      "genres": [
+        "punk"
+      ],
+      "logoUrl": "/media/bands/descendents-90s.png?v=1781404964075",
+      "logoStatus": "ok",
+      "logoSource": "manual",
+      "memberIds": [
+        "milo-aukerman-90s-descendents",
+        "stephen-egerton-90s-descendents",
+        "karl-alvarez-90s-descendents",
+        "bill-stevenson-90s-descendents"
+      ],
+      "hidden": false
+    },
+    {
+      "key": "dire-straits|80s",
+      "name": "Dire Straits",
+      "era": "80s",
+      "tier": "A",
+      "genres": [
+        "rock"
+      ],
+      "logoUrl": "/media/bands/dire-straits-80s.png?v=1781404986212",
+      "logoStatus": "ok",
+      "logoSource": "manual",
+      "memberIds": [
+        "mark-knopfler-80s-dire-straits",
+        "john-illsley-80s-dire-straits",
+        "pick-withers-80s-dire-straits"
+      ],
+      "hidden": false
+    },
+    {
+      "key": "disturbed|00s",
+      "name": "Disturbed",
+      "era": "00s",
+      "tier": "A",
+      "genres": [
+        "metal"
+      ],
+      "logoUrl": "/media/bands/disturbed-00s.png?v=1781405008862",
+      "logoStatus": "ok",
+      "logoSource": "manual",
+      "memberIds": [
+        "david-draiman-00s-disturbed",
+        "dan-donegan-00s-disturbed",
+        "john-moyer-00s-disturbed",
+        "mike-wengren-00s-disturbed"
+      ],
+      "hidden": false
+    },
+    {
+      "key": "down|90s",
+      "name": "Down",
+      "era": "90s",
+      "tier": "A",
+      "genres": [
+        "metal"
+      ],
+      "logoUrl": "/media/bands/down-90s.png?v=1781405025651",
+      "logoStatus": "ok",
+      "logoSource": "manual",
+      "memberIds": [
+        "phil-anselmo-90s-down",
+        "pepper-keenan-90s-down",
+        "kirk-windstein-90s-down",
+        "rex-brown-90s-down",
+        "jimmy-bower-90s-down"
+      ],
+      "hidden": false
+    },
+    {
+      "key": "everclear|90s",
+      "name": "Everclear",
+      "era": "90s",
+      "tier": "B",
+      "genres": [
+        "alternative"
+      ],
+      "logoUrl": "/media/bands/everclear-90s.png?v=1781405160398",
+      "logoStatus": "ok",
+      "logoSource": "manual",
+      "memberIds": [
+        "art-alexakis-90s-everclear",
+        "greg-eklund-90s-everclear",
+        "craig-montoya-90s-everclear",
+        "brian-nolan-90s-everclear"
+      ],
+      "hidden": false
+    },
+    {
+      "key": "faith-no-more|90s",
+      "name": "Faith No More",
+      "era": "90s",
+      "tier": "A",
+      "genres": [
+        "alternative"
+      ],
+      "logoUrl": "/media/bands/faith-no-more-90s.png?v=1781405181198",
+      "logoStatus": "ok",
+      "logoSource": "manual",
+      "memberIds": [
+        "mike-patton-90s-faith-no-more",
+        "jim-martin-90s-faith-no-more",
+        "roddy-bottum-90s-faith-no-more",
+        "billy-gould-90s-faith-no-more",
+        "mike-bordin-90s-faith-no-more"
+      ],
+      "hidden": false
+    },
+    {
+      "key": "foo-fighters|90s",
+      "name": "Foo Fighters",
+      "era": "90s",
+      "tier": "A",
+      "genres": [
+        "rock"
+      ],
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Foo_Fighters_%28Logo%29.png",
+      "logoStatus": "ok",
+      "logoSource": "manual",
+      "memberIds": [
+        "dave-grohl-90s-foo-fighters",
+        "pat-smear-90s-foo-fighters",
+        "nate-mendel-90s-foo-fighters",
+        "taylor-hawkins-90s-foo-fighters"
+      ],
+      "hidden": false
+    },
+    {
+      "key": "gojira|00s",
+      "name": "Gojira",
+      "era": "00s",
+      "tier": "A",
+      "genres": [
+        "metal"
+      ],
+      "logoUrl": "/media/bands/gojira-00s.png?v=1781405208096",
+      "logoStatus": "ok",
+      "logoSource": "manual",
+      "memberIds": [
+        "joe-duplantier-00s-gojira",
+        "mario-duplantier-00s-gojira",
+        "christian-andreu-00s-gojira",
+        "jean-michel-labadie-00s-gojira"
+      ],
+      "hidden": false
+    },
+    {
+      "key": "green-day|90s",
+      "name": "Green Day",
+      "era": "90s",
+      "tier": "A",
+      "genres": [
+        "punk"
+      ],
+      "logoUrl": "/media/bands/green-day-90s.png?v=1781405225238",
+      "logoStatus": "ok",
+      "logoSource": "manual",
+      "memberIds": [
+        "billie-joe-armstrong-90s-green-day",
+        "mike-dirnt-90s-green-day",
+        "tre-cool-90s-green-day"
+      ],
+      "hidden": false
+    },
+    {
+      "key": "guns-n-roses|80s",
+      "name": "Guns N' Roses",
+      "era": "80s",
+      "tier": "A",
+      "genres": [
+        "rock"
+      ],
+      "logoUrl": "/media/bands/guns-n-roses-80s.png?v=1781405246062",
+      "logoStatus": "ok",
+      "logoSource": "manual",
+      "memberIds": [
+        "axl-rose-80s-guns-n-roses",
+        "slash-80s-guns-n-roses",
+        "izzy-stradlin-80s-guns-n-roses",
+        "duff-mckagan-80s-guns-n-roses",
+        "steven-adler-80s-guns-n-roses"
+      ],
+      "hidden": false
+    },
+    {
+      "key": "helmet|90s",
+      "name": "Helmet",
+      "era": "90s",
+      "tier": "A",
+      "genres": [
+        "metal",
+        "alternative"
+      ],
+      "logoUrl": "/media/bands/helmet-90s.png?v=1781405283016",
+      "logoStatus": "ok",
+      "logoSource": "manual",
+      "memberIds": [
+        "page-hamilton-90s-helmet",
+        "henry-bogdan-90s-helmet",
+        "john-stanier-90s-helmet",
+        "peter-mengede-90s-helmet"
+      ],
+      "hidden": false
+    },
+    {
+      "key": "iron-maiden|80s",
+      "name": "Iron Maiden",
+      "era": "80s",
+      "tier": "A",
+      "genres": [
+        "metal"
+      ],
+      "logoUrl": "/media/bands/iron-maiden-80s.png?v=1781405300308",
+      "logoStatus": "ok",
+      "logoSource": "manual",
+      "memberIds": [
+        "bruce-dickinson-80s-iron-maiden",
+        "dave-murray-80s-iron-maiden",
+        "adrian-smith-80s-iron-maiden",
+        "steve-harris-80s-iron-maiden",
+        "nicko-mcbrain-80s-iron-maiden"
+      ],
+      "hidden": false
+    },
+    {
+      "key": "jane-s-addiction|80s",
+      "name": "Jane's Addiction",
+      "era": "80s",
+      "tier": "A",
+      "genres": [
+        "alternative"
+      ],
+      "logoUrl": "/media/bands/jane-s-addiction-80s.png?v=1781405315276",
+      "logoStatus": "ok",
+      "logoSource": "manual",
+      "memberIds": [
+        "perry-farrell-80s-jane-s-addiction",
+        "dave-navarro-80s-jane-s-addiction",
+        "eric-avery-80s-jane-s-addiction",
+        "stephen-perkins-80s-jane-s-addiction"
+      ],
+      "hidden": false
+    },
+    {
+      "key": "judas-priest|80s",
+      "name": "Judas Priest",
+      "era": "80s",
+      "tier": "A",
+      "genres": [
+        "metal"
+      ],
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Judas_Priest_logo.png",
+      "logoStatus": "ok",
+      "logoSource": "manual",
+      "memberIds": [
+        "rob-halford-80s-judas-priest",
+        "k-k-downing-80s-judas-priest",
+        "glenn-tipton-80s-judas-priest",
+        "ian-hill-80s-judas-priest",
+        "dave-holland-80s-judas-priest"
+      ],
+      "hidden": false
+    },
+    {
+      "key": "korn|90s",
+      "name": "Korn",
+      "era": "90s",
+      "tier": "A",
+      "genres": [
+        "metal"
+      ],
+      "logoUrl": "/media/bands/korn-90s.png?v=1781405336189",
+      "logoStatus": "ok",
+      "logoSource": "manual",
+      "memberIds": [
+        "jonathan-davis-90s-korn",
+        "james-munky-shaffer-90s-korn",
+        "brian-head-welch-90s-korn",
+        "reginald-fieldy-arvizu-90s-korn",
+        "david-silveria-90s-korn"
+      ],
+      "hidden": false
+    },
+    {
+      "key": "kyuss|90s",
+      "name": "Kyuss",
+      "era": "90s",
+      "tier": "A",
+      "genres": [
+        "metal"
+      ],
+      "logoUrl": "/media/bands/kyuss-90s.png?v=1781405388894",
+      "logoStatus": "ok",
+      "logoSource": "manual",
+      "memberIds": [
+        "john-garcia-90s-kyuss",
+        "josh-homme-90s-kyuss",
+        "nick-oliveri-90s-kyuss",
+        "brant-bjork-90s-kyuss"
+      ],
+      "hidden": false
+    },
+    {
+      "key": "l7|90s",
+      "name": "L7",
+      "era": "90s",
+      "tier": "A",
+      "genres": [
+        "punk",
+        "alternative"
+      ],
+      "logoUrl": "/media/bands/l7-90s.png?v=1781405402715",
+      "logoStatus": "ok",
+      "logoSource": "manual",
+      "memberIds": [
+        "donita-sparks-90s-l7",
+        "suzi-gardner-90s-l7",
+        "jennifer-finch-90s-l7",
+        "dee-plakas-90s-l7"
+      ],
+      "hidden": false
+    },
+    {
+      "key": "lamb-of-god|00s",
+      "name": "Lamb of God",
+      "era": "00s",
+      "tier": "A",
+      "genres": [
+        "metal"
+      ],
+      "logoUrl": "/media/bands/lamb-of-god-00s.png?v=1781405459717",
+      "logoStatus": "ok",
+      "logoSource": "manual",
+      "memberIds": [
+        "randy-blythe-00s-lamb-of-god",
+        "mark-morton-00s-lamb-of-god",
+        "willie-adler-00s-lamb-of-god",
+        "john-campbell-00s-lamb-of-god",
+        "chris-adler-00s-lamb-of-god"
+      ],
+      "hidden": false
+    },
+    {
+      "key": "limp-bizkit|90s",
+      "name": "Limp Bizkit",
+      "era": "90s",
+      "tier": "A",
+      "genres": [
+        "metal",
+        "alternative"
+      ],
+      "logoUrl": "/media/bands/limp-bizkit-90s.png?v=1781405481827",
+      "logoStatus": "ok",
+      "logoSource": "manual",
+      "memberIds": [
+        "fred-durst-90s-limp-bizkit",
+        "wes-borland-90s-limp-bizkit",
+        "sam-rivers-90s-limp-bizkit",
+        "john-otto-90s-limp-bizkit",
+        "dj-lethal-90s-limp-bizkit"
+      ],
+      "hidden": false
+    },
+    {
+      "key": "linkin-park|00s",
+      "name": "Linkin Park",
+      "era": "00s",
+      "tier": "A",
+      "genres": [
+        "alternative"
+      ],
+      "logoUrl": "/media/bands/linkin-park-00s.png?v=1781405498892",
+      "logoStatus": "ok",
+      "logoSource": "manual",
+      "memberIds": [
+        "chester-bennington-00s-linkin-park",
+        "mike-shinoda-00s-linkin-park",
+        "brad-delson-00s-linkin-park",
+        "dave-phoenix-farrell-00s-linkin-park",
+        "rob-bourdon-00s-linkin-park"
+      ],
+      "hidden": false
+    },
+    {
+      "key": "live|90s",
+      "name": "Live",
+      "era": "90s",
+      "tier": "B",
+      "genres": [
+        "rock"
+      ],
+      "logoUrl": "/media/bands/live-90s.png?v=1781405530089",
+      "logoStatus": "ok",
+      "logoSource": "manual",
+      "memberIds": [
+        "ed-kowalczyk-90s-live",
+        "chad-taylor-90s-live",
+        "patrick-dahlheimer-90s-live",
+        "chad-gracey-90s-live"
+      ],
+      "hidden": false
+    },
+    {
+      "key": "mastodon|00s",
+      "name": "Mastodon",
+      "era": "00s",
+      "tier": "A",
+      "genres": [
+        "metal"
+      ],
+      "logoUrl": "/media/bands/mastodon-00s.png?v=1781405582843",
+      "logoStatus": "ok",
+      "logoSource": "manual",
+      "memberIds": [
+        "troy-sanders-00s-mastodon",
+        "brent-hinds-00s-mastodon",
+        "bill-kelliher-00s-mastodon",
+        "brann-dailor-00s-mastodon"
+      ],
+      "hidden": false
+    },
+    {
+      "key": "matchbox-twenty|90s",
+      "name": "Matchbox Twenty",
+      "era": "90s",
+      "tier": "B",
+      "genres": [
+        "rock"
+      ],
+      "logoUrl": "/media/bands/matchbox-twenty-90s.png?v=1781405603066",
+      "logoStatus": "ok",
+      "logoSource": "manual",
+      "memberIds": [
+        "rob-thomas-90s-matchbox-twenty",
+        "kyle-cook-90s-matchbox-twenty",
+        "adam-gaynor-90s-matchbox-twenty",
+        "brian-yale-90s-matchbox-twenty",
+        "paul-doucette-90s-matchbox-twenty"
+      ],
+      "hidden": false
+    },
+    {
+      "key": "megadeth|80s",
+      "name": "Megadeth",
+      "era": "80s",
+      "tier": "A",
+      "genres": [
+        "metal"
+      ],
+      "logoUrl": "/media/bands/megadeth-80s.png?v=1781405648094",
+      "logoStatus": "ok",
+      "logoSource": "manual",
+      "memberIds": [
+        "dave-mustaine-80s-megadeth",
+        "marty-friedman-80s-megadeth",
+        "david-ellefson-80s-megadeth",
+        "nick-menza-80s-megadeth"
+      ],
+      "hidden": false
+    },
+    {
+      "key": "melvins|80s",
+      "name": "Melvins",
+      "era": "80s",
+      "tier": "A",
+      "genres": [
+        "metal",
+        "alternative"
+      ],
+      "logoUrl": "/media/bands/melvins-80s.png?v=1781405665470",
+      "logoStatus": "ok",
+      "logoSource": "manual",
+      "memberIds": [
+        "buzz-osborne-80s-melvins",
+        "matt-lukin-80s-melvins",
+        "dale-crover-80s-melvins"
+      ],
+      "hidden": false
+    },
+    {
+      "key": "metallica|80s",
+      "name": "Metallica",
+      "era": "80s",
+      "tier": "A",
+      "genres": [
+        "metal"
+      ],
+      "logoUrl": "/media/bands/metallica-80s.png?v=1781405691782",
+      "logoStatus": "ok",
+      "logoSource": "manual",
+      "memberIds": [
+        "james-hetfield-80s-metallica",
+        "kirk-hammett-80s-metallica",
+        "cliff-burton-80s-metallica",
+        "lars-ulrich-80s-metallica"
+      ],
+      "hidden": false
+    },
+    {
+      "key": "misfits|80s",
+      "name": "Misfits",
+      "era": "80s",
+      "tier": "A",
+      "genres": [
+        "punk"
+      ],
+      "logoUrl": "/media/bands/misfits-80s.png?v=1781405704477",
+      "logoStatus": "ok",
+      "logoSource": "manual",
+      "memberIds": [
+        "glenn-danzig-80s-misfits",
+        "jerry-only-80s-misfits",
+        "doyle-wolfgang-von-frankenstein-80s-misfits",
+        "robo-80s-misfits"
+      ],
+      "hidden": false
+    },
+    {
+      "key": "motley-crue|80s",
+      "name": "Mötley Crüe",
+      "era": "80s",
+      "tier": "A",
+      "genres": [
+        "metal"
+      ],
+      "logoUrl": "/media/bands/motley-crue-80s.png?v=1781405753704",
+      "logoStatus": "ok",
+      "logoSource": "manual",
+      "memberIds": [
+        "vince-neil-80s-motley-crue",
+        "mick-mars-80s-motley-crue",
+        "nikki-sixx-80s-motley-crue",
+        "tommy-lee-80s-motley-crue"
+      ],
+      "hidden": false
+    },
+    {
+      "key": "motorhead|80s",
+      "name": "Motörhead",
+      "era": "80s",
+      "tier": "A",
+      "genres": [
+        "metal"
+      ],
+      "logoUrl": "/media/bands/motorhead-80s.png?v=1781405766581",
+      "logoStatus": "ok",
+      "logoSource": "manual",
+      "memberIds": [
+        "lemmy-kilmister-80s-motorhead",
+        "fast-eddie-clarke-80s-motorhead",
+        "phil-taylor-80s-motorhead"
+      ],
+      "hidden": false
+    },
+    {
+      "key": "mudvayne|00s",
+      "name": "Mudvayne",
+      "era": "00s",
+      "tier": "B",
+      "genres": [
+        "metal"
+      ],
+      "logoUrl": "/media/bands/mudvayne-00s.png?v=1781405779119",
+      "logoStatus": "ok",
+      "logoSource": "manual",
+      "memberIds": [
+        "chad-gray-00s-mudvayne",
+        "greg-tribbett-00s-mudvayne",
+        "ryan-martinie-00s-mudvayne",
+        "matthew-mcdonough-00s-mudvayne"
+      ],
+      "hidden": false
+    },
+    {
+      "key": "muse|00s",
+      "name": "Muse",
+      "era": "00s",
+      "tier": "A",
+      "genres": [
+        "alternative"
+      ],
+      "logoUrl": "/media/bands/muse-00s.png?v=1781405792707",
+      "logoStatus": "ok",
+      "logoSource": "manual",
+      "memberIds": [
+        "matt-bellamy-00s-muse",
+        "christopher-wolstenholme-00s-muse",
+        "dominic-howard-00s-muse"
+      ],
+      "hidden": false
+    },
+    {
+      "key": "my-chemical-romance|00s",
+      "name": "My Chemical Romance",
+      "era": "00s",
+      "tier": "A",
+      "genres": [
+        "punk"
+      ],
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/c/cb/My_Chemical_Romance_logo.png",
+      "logoStatus": "ok",
+      "logoSource": "manual",
+      "memberIds": [
+        "gerard-way-00s-my-chemical-romance",
+        "ray-toro-00s-my-chemical-romance",
+        "frank-iero-00s-my-chemical-romance",
+        "mikey-way-00s-my-chemical-romance",
+        "bob-bryar-00s-my-chemical-romance"
+      ],
+      "hidden": false
+    },
+    {
+      "key": "nickelback|00s",
+      "name": "Nickelback",
+      "era": "00s",
+      "tier": "B",
+      "genres": [
+        "rock"
+      ],
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/5/53/Nickelbacklogo.png",
+      "logoStatus": "ok",
+      "logoSource": "manual",
+      "memberIds": [
+        "chad-kroeger-00s-nickelback",
+        "ryan-peake-00s-nickelback",
+        "mike-kroeger-00s-nickelback",
+        "daniel-adair-00s-nickelback"
+      ],
+      "hidden": false
+    },
+    {
+      "key": "nine-inch-nails|90s",
+      "name": "Nine Inch Nails",
+      "era": "90s",
+      "tier": "A",
+      "genres": [
+        "metal",
+        "alternative"
+      ],
+      "logoUrl": "/media/bands/nine-inch-nails-90s.png?v=1781423830869",
+      "logoStatus": "ok",
+      "logoSource": "manual",
+      "memberIds": [
+        "trent-reznor-90s-nine-inch-nails"
+      ],
+      "hidden": false
+    },
+    {
+      "key": "nirvana|90s",
+      "name": "Nirvana",
+      "era": "90s",
+      "tier": "A",
+      "genres": [
+        "alternative"
+      ],
+      "logoUrl": "/media/bands/nirvana-90s.png?v=1781405827831",
+      "logoStatus": "ok",
+      "logoSource": "manual",
+      "memberIds": [
+        "kurt-cobain-90s-nirvana",
+        "krist-novoselic-90s-nirvana",
+        "dave-grohl-90s-nirvana"
+      ],
+      "hidden": false
+    },
+    {
+      "key": "nofx|90s",
+      "name": "NOFX",
+      "era": "90s",
+      "tier": "A",
+      "genres": [
+        "punk"
+      ],
+      "logoUrl": "/media/bands/nofx-90s.png?v=1781405844813",
+      "logoStatus": "ok",
+      "logoSource": "manual",
+      "memberIds": [
+        "fat-mike-90s-nofx",
+        "el-hefe-90s-nofx",
+        "eric-melvin-90s-nofx",
+        "erik-sandin-90s-nofx"
+      ],
+      "hidden": false
+    },
+    {
+      "key": "oasis|90s",
+      "name": "Oasis",
+      "era": "90s",
+      "tier": "A",
+      "genres": [
+        "rock"
+      ],
+      "logoUrl": "/media/bands/oasis-90s.png?v=1781405860723",
+      "logoStatus": "ok",
+      "logoSource": "manual",
+      "memberIds": [
+        "liam-gallagher-90s-oasis",
+        "noel-gallagher-90s-oasis",
+        "paul-bonehead-arthurs-90s-oasis",
+        "paul-guigsy-mcguigan-90s-oasis",
+        "tony-mccarroll-90s-oasis"
+      ],
+      "hidden": false
+    },
+    {
+      "key": "ozzy-osbourne|80s",
+      "name": "Ozzy Osbourne",
+      "era": "80s",
+      "tier": "A",
+      "genres": [
+        "metal"
+      ],
+      "logoUrl": "/media/bands/ozzy-osbourne-80s.png?v=1781405885569",
+      "logoStatus": "ok",
+      "logoSource": "manual",
+      "memberIds": [
+        "ozzy-osbourne-80s-ozzy-osbourne",
+        "randy-rhoads-80s-ozzy-osbourne",
+        "bob-daisley-80s-ozzy-osbourne",
+        "tommy-aldridge-80s-ozzy-osbourne"
+      ],
+      "hidden": false
+    },
+    {
+      "key": "pantera|90s",
+      "name": "Pantera",
+      "era": "90s",
+      "tier": "A",
+      "genres": [
+        "metal"
+      ],
+      "logoUrl": "/media/bands/pantera-90s.png?v=1781405902035",
+      "logoStatus": "ok",
+      "logoSource": "manual",
+      "memberIds": [
+        "phil-anselmo-90s-pantera",
+        "dimebag-darrell-90s-pantera",
+        "rex-brown-90s-pantera",
+        "vinnie-paul-90s-pantera"
+      ],
+      "hidden": false
+    },
+    {
+      "key": "parkway-drive|10s",
+      "name": "Parkway Drive",
+      "era": "10s",
+      "tier": "A",
+      "genres": [
+        "metal"
+      ],
+      "logoUrl": "/media/bands/parkway-drive-10s.png?v=1781405937316",
+      "logoStatus": "ok",
+      "logoSource": "manual",
+      "memberIds": [
+        "winston-mccall-10s-parkway-drive",
+        "luke-kilpatrick-10s-parkway-drive",
+        "jeff-ling-10s-parkway-drive",
+        "ben-gordon-10s-parkway-drive",
+        "ben-harper-10s-parkway-drive"
+      ],
+      "hidden": false
+    },
+    {
+      "key": "pearl-jam|90s",
+      "name": "Pearl Jam",
+      "era": "90s",
+      "tier": "A",
+      "genres": [
+        "alternative"
+      ],
+      "logoUrl": "/media/bands/pearl-jam-90s.png?v=1781405968790",
+      "logoStatus": "ok",
+      "logoSource": "manual",
+      "memberIds": [
+        "eddie-vedder-90s-pearl-jam",
+        "mike-mccready-90s-pearl-jam",
+        "stone-gossard-90s-pearl-jam",
+        "jeff-ament-90s-pearl-jam",
+        "dave-abbruzzese-90s-pearl-jam"
+      ],
+      "hidden": false
+    },
+    {
+      "key": "pennywise|90s",
+      "name": "Pennywise",
+      "era": "90s",
+      "tier": "B",
+      "genres": [
+        "punk"
+      ],
+      "logoUrl": "/media/bands/pennywise-90s.png?v=1781406120113",
+      "logoStatus": "ok",
+      "logoSource": "manual",
+      "memberIds": [
+        "jim-lindberg-90s-pennywise",
+        "fletcher-dragge-90s-pennywise",
+        "jason-thirsk-90s-pennywise",
+        "byron-mcmackin-90s-pennywise"
+      ],
+      "hidden": false
+    },
+    {
+      "key": "periphery|10s",
+      "name": "Periphery",
+      "era": "10s",
+      "tier": "B",
+      "genres": [
+        "metal"
+      ],
+      "logoUrl": "/media/bands/periphery-10s.png?v=1781406184385",
+      "logoStatus": "ok",
+      "logoSource": "manual",
+      "memberIds": [
+        "spencer-sotelo-10s-periphery",
+        "misha-mansoor-10s-periphery",
+        "jake-bowen-10s-periphery",
+        "mark-holcomb-10s-periphery",
+        "matt-halpern-10s-periphery"
+      ],
+      "hidden": false
+    },
+    {
+      "key": "pixies|80s",
+      "name": "Pixies",
+      "era": "80s",
+      "tier": "A",
+      "genres": [
+        "alternative"
+      ],
+      "logoUrl": "/media/bands/pixies-80s.png?v=1781406228763",
+      "logoStatus": "ok",
+      "logoSource": "manual",
+      "memberIds": [
+        "black-francis-80s-pixies",
+        "joey-santiago-80s-pixies",
+        "kim-deal-80s-pixies",
+        "david-lovering-80s-pixies"
+      ],
+      "hidden": false
+    },
+    {
+      "key": "primus|90s",
+      "name": "Primus",
+      "era": "90s",
+      "tier": "A",
+      "genres": [
+        "alternative",
+        "metal"
+      ],
+      "logoUrl": "/media/bands/primus-90s.png?v=1781406421872",
+      "logoStatus": "ok",
+      "logoSource": "manual",
+      "memberIds": [
+        "les-claypool-90s-primus",
+        "larry-ler-lalonde-90s-primus",
+        "tim-herb-alexander-90s-primus"
+      ],
+      "hidden": false
+    },
+    {
+      "key": "queens-of-the-stone-age|00s",
+      "name": "Queens of the Stone Age",
+      "era": "00s",
+      "tier": "A",
+      "genres": [
+        "rock"
+      ],
+      "logoUrl": "/media/bands/queens-of-the-stone-age-00s.png?v=1781406437442",
+      "logoStatus": "ok",
+      "logoSource": "manual",
+      "memberIds": [
+        "josh-homme-00s-queens-of-the-stone-age",
+        "nick-oliveri-00s-queens-of-the-stone-age",
+        "joey-castillo-00s-queens-of-the-stone-age"
+      ],
+      "hidden": false
+    },
+    {
+      "key": "r-e-m|80s",
+      "name": "R.E.M.",
+      "era": "80s",
+      "tier": "A",
+      "genres": [
+        "alternative"
+      ],
+      "logoUrl": "/media/bands/r-e-m-80s.png?v=1781406473773",
+      "logoStatus": "ok",
+      "logoSource": "manual",
+      "memberIds": [
+        "michael-stipe-80s-r-e-m",
+        "peter-buck-80s-r-e-m",
+        "mike-mills-80s-r-e-m",
+        "bill-berry-80s-r-e-m"
+      ],
+      "hidden": false
+    },
+    {
+      "key": "radiohead|90s",
+      "name": "Radiohead",
+      "era": "90s",
+      "tier": "A",
+      "genres": [
+        "alternative"
+      ],
+      "logoUrl": "/media/bands/radiohead-90s.png?v=1781406504796",
+      "logoStatus": "ok",
+      "logoSource": "manual",
+      "memberIds": [
+        "thom-yorke-90s-radiohead",
+        "jonny-greenwood-90s-radiohead",
+        "ed-o-brien-90s-radiohead",
+        "colin-greenwood-90s-radiohead",
+        "phil-selway-90s-radiohead"
+      ],
+      "hidden": false
+    },
+    {
+      "key": "rage-against-the-machine|90s",
+      "name": "Rage Against the Machine",
+      "era": "90s",
+      "tier": "A",
+      "genres": [
+        "alternative"
+      ],
+      "logoUrl": "/media/bands/rage-against-the-machine-90s.png?v=1781406524036",
+      "logoStatus": "ok",
+      "logoSource": "manual",
+      "memberIds": [
+        "zack-de-la-rocha-90s-rage-against-the-machine",
+        "tom-morello-90s-rage-against-the-machine",
+        "tim-commerford-90s-rage-against-the-machine",
+        "brad-wilk-90s-rage-against-the-machine"
+      ],
+      "hidden": false
+    },
+    {
+      "key": "rammstein|90s",
+      "name": "Rammstein",
+      "era": "90s",
+      "tier": "A",
+      "genres": [
+        "metal"
+      ],
+      "logoUrl": "/media/bands/rammstein-90s.png?v=1781406545684",
+      "logoStatus": "ok",
+      "logoSource": "manual",
+      "memberIds": [
+        "till-lindemann-90s-rammstein",
+        "richard-kruspe-90s-rammstein",
+        "paul-landers-90s-rammstein",
+        "oliver-riedel-90s-rammstein",
+        "christoph-schneider-90s-rammstein",
+        "christian-flake-lorenz-90s-rammstein"
+      ],
+      "hidden": false
+    },
+    {
+      "key": "rancid|90s",
+      "name": "Rancid",
+      "era": "90s",
+      "tier": "A",
+      "genres": [
+        "punk"
+      ],
+      "logoUrl": "/media/bands/rancid-90s.png?v=1781406564673",
+      "logoStatus": "ok",
+      "logoSource": "manual",
+      "memberIds": [
+        "tim-armstrong-90s-rancid",
+        "lars-frederiksen-90s-rancid",
+        "matt-freeman-90s-rancid",
+        "brett-reed-90s-rancid"
+      ],
+      "hidden": false
+    },
+    {
+      "key": "red-hot-chili-peppers|90s",
+      "name": "Red Hot Chili Peppers",
+      "era": "90s",
+      "tier": "A",
+      "genres": [
+        "rock"
+      ],
+      "logoUrl": "/media/bands/red-hot-chili-peppers-90s.png?v=1781406590791",
+      "logoStatus": "ok",
+      "logoSource": "manual",
+      "memberIds": [
+        "anthony-kiedis-90s-red-hot-chili-peppers",
+        "john-frusciante-90s-red-hot-chili-peppers",
+        "flea-90s-red-hot-chili-peppers",
+        "chad-smith-90s-red-hot-chili-peppers"
+      ],
+      "hidden": false
+    },
+    {
+      "key": "refused|90s",
+      "name": "Refused",
+      "era": "90s",
+      "tier": "B",
+      "genres": [
+        "punk",
+        "alternative"
+      ],
+      "logoUrl": "/media/bands/refused-90s.png?v=1781406607282",
+      "logoStatus": "ok",
+      "logoSource": "manual",
+      "memberIds": [
+        "dennis-lyxzen-90s-refused",
+        "kristofer-steen-90s-refused",
+        "jon-brannstrom-90s-refused",
+        "jonas-lindgren-90s-refused",
+        "david-sandstrom-90s-refused"
+      ],
+      "hidden": false
+    },
+    {
+      "key": "regurgitator|90s",
+      "name": "Regurgitator",
+      "era": "90s",
+      "tier": "B",
+      "genres": [
+        "punk",
+        "rock"
+      ],
+      "logoUrl": "/media/bands/regurgitator-90s.png?v=1781406645867",
+      "logoStatus": "ok",
+      "logoSource": "manual",
+      "memberIds": [
+        "quan-yeomans-90s-regurgitator",
+        "ben-ely-90s-regurgitator",
+        "martin-lee-90s-regurgitator",
+        "lee-ramiddala-90s-regurgitator"
+      ],
+      "hidden": false
+    },
+    {
+      "key": "sepultura|90s",
+      "name": "Sepultura",
+      "era": "90s",
+      "tier": "A",
+      "genres": [
+        "metal"
+      ],
+      "logoUrl": "/media/bands/sepultura-90s.png?v=1781406663074",
+      "logoStatus": "ok",
+      "logoSource": "manual",
+      "memberIds": [
+        "max-cavalera-90s-sepultura",
+        "andreas-kisser-90s-sepultura",
+        "paulo-jr-90s-sepultura",
+        "igor-cavalera-90s-sepultura"
+      ],
+      "hidden": false
+    },
+    {
+      "key": "shihad|90s",
+      "name": "Shihad",
+      "era": "90s",
+      "tier": "B",
+      "genres": [
+        "rock",
+        "metal"
+      ],
+      "logoUrl": "/media/bands/shihad-90s.png?v=1781406720422",
+      "logoStatus": "ok",
+      "logoSource": "manual",
+      "memberIds": [
+        "jon-toogood-90s-shihad",
+        "phil-knight-90s-shihad",
+        "karl-k-90s-shihad",
+        "tom-larkin-90s-shihad"
+      ],
+      "hidden": false
+    },
+    {
+      "key": "silverchair|90s",
+      "name": "Silverchair",
+      "era": "90s",
+      "tier": "A",
+      "genres": [
+        "alternative",
+        "rock"
+      ],
+      "logoUrl": "/media/bands/silverchair-90s.png?v=1781406741267",
+      "logoStatus": "ok",
+      "logoSource": "manual",
+      "memberIds": [
+        "daniel-johns-90s-silverchair",
+        "chris-joannou-90s-silverchair",
+        "ben-gillies-90s-silverchair"
+      ],
+      "hidden": false
+    },
+    {
+      "key": "slayer|80s",
+      "name": "Slayer",
+      "era": "80s",
+      "tier": "A",
+      "genres": [
+        "metal"
+      ],
+      "logoUrl": "/media/bands/slayer-80s.png?v=1781406755188",
+      "logoStatus": "ok",
+      "logoSource": "manual",
+      "memberIds": [
+        "tom-araya-80s-slayer",
+        "kerry-king-80s-slayer",
+        "jeff-hanneman-80s-slayer",
+        "dave-lombardo-80s-slayer"
+      ],
+      "hidden": false
+    },
+    {
+      "key": "slipknot|00s",
+      "name": "Slipknot",
+      "era": "00s",
+      "tier": "A",
+      "genres": [
+        "metal"
+      ],
+      "logoUrl": "/media/bands/slipknot-00s.png?v=1781406779952",
+      "logoStatus": "ok",
+      "logoSource": "manual",
+      "memberIds": [
+        "corey-taylor-00s-slipknot",
+        "mick-thomson-00s-slipknot",
+        "jim-root-00s-slipknot",
+        "paul-gray-00s-slipknot",
+        "joey-jordison-00s-slipknot"
+      ],
+      "hidden": false
+    },
+    {
+      "key": "sonic-youth|80s",
+      "name": "Sonic Youth",
+      "era": "80s",
+      "tier": "A",
+      "genres": [
+        "alternative"
+      ],
+      "logoUrl": "/media/bands/sonic-youth-80s.png?v=1781406790611",
+      "logoStatus": "ok",
+      "logoSource": "manual",
+      "memberIds": [
+        "thurston-moore-80s-sonic-youth",
+        "kim-gordon-80s-sonic-youth",
+        "lee-ranaldo-80s-sonic-youth",
+        "steve-shelley-80s-sonic-youth"
+      ],
+      "hidden": false
+    },
+    {
+      "key": "soulfly|90s",
+      "name": "Soulfly",
+      "era": "90s",
+      "tier": "A",
+      "genres": [
+        "metal"
+      ],
+      "logoUrl": "/media/bands/soulfly-90s.png?v=1781406803048",
+      "logoStatus": "ok",
+      "logoSource": "manual",
+      "memberIds": [
+        "max-cavalera-90s-soulfly",
+        "logan-mader-90s-soulfly",
+        "marcello-dias-90s-soulfly",
+        "joe-nu-90s-soulfly"
+      ],
+      "hidden": false
+    },
+    {
+      "key": "soundgarden|90s",
+      "name": "Soundgarden",
+      "era": "90s",
+      "tier": "A",
+      "genres": [
+        "alternative"
+      ],
+      "logoUrl": "/media/bands/soundgarden-90s.png?v=1781406829592",
+      "logoStatus": "ok",
+      "logoSource": "manual",
+      "memberIds": [
+        "chris-cornell-90s-soundgarden",
+        "kim-thayil-90s-soundgarden",
+        "ben-shepherd-90s-soundgarden",
+        "matt-cameron-90s-soundgarden"
+      ],
+      "hidden": false
+    },
+    {
+      "key": "spiderbait|90s",
+      "name": "Spiderbait",
+      "era": "90s",
+      "tier": "B",
+      "genres": [
+        "rock",
+        "alternative"
+      ],
+      "logoUrl": "/media/bands/spiderbait-90s.png?v=1781406883315",
+      "logoStatus": "ok",
+      "logoSource": "manual",
+      "memberIds": [
+        "kram-90s-spiderbait",
+        "janet-english-90s-spiderbait",
+        "damian-whitty-90s-spiderbait"
+      ],
+      "hidden": false
+    },
+    {
+      "key": "stone-temple-pilots|90s",
+      "name": "Stone Temple Pilots",
+      "era": "90s",
+      "tier": "A",
+      "genres": [
+        "rock"
+      ],
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/9/99/Stone_Temple_Pilots_%28Logo%29.png",
+      "logoStatus": "ok",
+      "logoSource": "manual",
+      "memberIds": [
+        "scott-weiland-90s-stone-temple-pilots",
+        "dean-deleo-90s-stone-temple-pilots",
+        "robert-deleo-90s-stone-temple-pilots",
+        "eric-kretz-90s-stone-temple-pilots"
+      ],
+      "hidden": false
+    },
+    {
+      "key": "sum-41|00s",
+      "name": "Sum 41",
+      "era": "00s",
+      "tier": "A",
+      "genres": [
+        "punk"
+      ],
+      "logoUrl": "/media/bands/sum-41-00s.png?v=1781406903535",
+      "logoStatus": "ok",
+      "logoSource": "manual",
+      "memberIds": [
+        "deryck-whibley-00s-sum-41",
+        "dave-baksh-00s-sum-41",
+        "cone-mccaslin-00s-sum-41",
+        "steve-jocz-00s-sum-41"
+      ],
+      "hidden": false
+    },
+    {
+      "key": "system-of-a-down|00s",
+      "name": "System of a Down",
+      "era": "00s",
+      "tier": "A",
+      "genres": [
+        "metal"
+      ],
+      "logoUrl": "/media/bands/system-of-a-down-00s.png?v=1781406920183",
+      "logoStatus": "ok",
+      "logoSource": "manual",
+      "memberIds": [
+        "serj-tankian-00s-system-of-a-down",
+        "daron-malakian-00s-system-of-a-down",
+        "shavo-odadjian-00s-system-of-a-down",
+        "john-dolmayan-00s-system-of-a-down"
+      ],
+      "hidden": false
+    },
+    {
+      "key": "talking-heads|80s",
+      "name": "Talking Heads",
+      "era": "80s",
+      "tier": "A",
+      "genres": [
+        "alternative"
+      ],
+      "logoUrl": "/media/bands/talking-heads-80s.png?v=1781406945004",
+      "logoStatus": "ok",
+      "logoSource": "manual",
+      "memberIds": [
+        "david-byrne-80s-talking-heads",
+        "jerry-harrison-80s-talking-heads",
+        "tina-weymouth-80s-talking-heads",
+        "chris-frantz-80s-talking-heads"
+      ],
+      "hidden": false
+    },
+    {
+      "key": "testament|80s",
+      "name": "Testament",
+      "era": "80s",
+      "tier": "B",
+      "genres": [
+        "metal"
+      ],
+      "logoUrl": "/media/bands/testament-80s.png?v=1781406972541",
+      "logoStatus": "ok",
+      "logoSource": "manual",
+      "memberIds": [
+        "chuck-billy-80s-testament",
+        "alex-skolnick-80s-testament",
+        "eric-peterson-80s-testament",
+        "greg-christian-80s-testament",
+        "louie-clemente-80s-testament"
+      ],
+      "hidden": false
+    },
+    {
+      "key": "the-clash|80s",
+      "name": "The Clash",
+      "era": "80s",
+      "tier": "A",
+      "genres": [
+        "punk"
+      ],
+      "logoUrl": "/media/bands/the-clash-80s.png?v=1781406993906",
+      "logoStatus": "ok",
+      "logoSource": "manual",
+      "memberIds": [
+        "joe-strummer-80s-the-clash",
+        "mick-jones-80s-the-clash",
+        "paul-simonon-80s-the-clash",
+        "topper-headon-80s-the-clash"
+      ],
+      "hidden": false
+    },
+    {
+      "key": "the-cure|80s",
+      "name": "The Cure",
+      "era": "80s",
+      "tier": "A",
+      "genres": [
+        "alternative"
+      ],
+      "logoUrl": "/media/bands/the-cure-80s.png?v=1781407015183",
+      "logoStatus": "ok",
+      "logoSource": "manual",
+      "memberIds": [
+        "robert-smith-80s-the-cure",
+        "simon-gallup-80s-the-cure",
+        "lol-tolhurst-80s-the-cure"
+      ],
+      "hidden": false
+    },
+    {
+      "key": "the-killers|00s",
+      "name": "The Killers",
+      "era": "00s",
+      "tier": "A",
+      "genres": [
+        "rock"
+      ],
+      "logoUrl": "/media/bands/the-killers-00s.png?v=1781407044090",
+      "logoStatus": "ok",
+      "logoSource": "manual",
+      "memberIds": [
+        "brandon-flowers-00s-the-killers",
+        "dave-keuning-00s-the-killers",
+        "mark-stoermer-00s-the-killers",
+        "ronnie-vannucci-jr-00s-the-killers"
+      ],
+      "hidden": false
+    },
+    {
+      "key": "the-living-end|90s",
+      "name": "The Living End",
+      "era": "90s",
+      "tier": "B",
+      "genres": [
+        "punk",
+        "rock"
+      ],
+      "logoUrl": "/media/bands/the-living-end-90s.png?v=1781407069586",
+      "logoStatus": "ok",
+      "logoSource": "manual",
+      "memberIds": [
+        "chris-cheney-90s-the-living-end",
+        "scott-owen-90s-the-living-end",
+        "travis-demsey-90s-the-living-end"
+      ],
+      "hidden": false
+    },
+    {
+      "key": "the-offspring|90s",
+      "name": "The Offspring",
+      "era": "90s",
+      "tier": "A",
+      "genres": [
+        "punk"
+      ],
+      "logoUrl": "/media/bands/the-offspring-90s.png?v=1781407087490",
+      "logoStatus": "ok",
+      "logoSource": "manual",
+      "memberIds": [
+        "dexter-holland-90s-the-offspring",
+        "kevin-noodles-wasserman-90s-the-offspring",
+        "greg-k-90s-the-offspring",
+        "ron-welty-90s-the-offspring"
+      ],
+      "hidden": false
+    },
+    {
+      "key": "the-smashing-pumpkins|90s",
+      "name": "The Smashing Pumpkins",
+      "era": "90s",
+      "tier": "A",
+      "genres": [
+        "alternative"
+      ],
+      "logoUrl": "/media/bands/the-smashing-pumpkins-90s.png?v=1781407102696",
+      "logoStatus": "ok",
+      "logoSource": "manual",
+      "memberIds": [
+        "billy-corgan-90s-the-smashing-pumpkins",
+        "james-iha-90s-the-smashing-pumpkins",
+        "d-arcy-wretzky-90s-the-smashing-pumpkins",
+        "jimmy-chamberlin-90s-the-smashing-pumpkins"
+      ],
+      "hidden": false
+    },
+    {
+      "key": "the-smiths|80s",
+      "name": "The Smiths",
+      "era": "80s",
+      "tier": "A",
+      "genres": [
+        "alternative"
+      ],
+      "logoUrl": "/media/bands/the-smiths-80s.png?v=1781407117678",
+      "logoStatus": "ok",
+      "logoSource": "manual",
+      "memberIds": [
+        "morrissey-80s-the-smiths",
+        "johnny-marr-80s-the-smiths",
+        "andy-rourke-80s-the-smiths",
+        "mike-joyce-80s-the-smiths"
+      ],
+      "hidden": false
+    },
+    {
+      "key": "the-used|00s",
+      "name": "The Used",
+      "era": "00s",
+      "tier": "B",
+      "genres": [
+        "punk"
+      ],
+      "logoUrl": "/media/bands/the-used-00s.png?v=1781407138428",
+      "logoStatus": "ok",
+      "logoSource": "manual",
+      "memberIds": [
+        "bert-mccracken-00s-the-used",
+        "quinn-allman-00s-the-used",
+        "jeph-howard-00s-the-used",
+        "branden-steineckert-00s-the-used"
+      ],
+      "hidden": false
+    },
+    {
+      "key": "the-white-stripes|00s",
+      "name": "The White Stripes",
+      "era": "00s",
+      "tier": "A",
+      "genres": [
+        "rock"
+      ],
+      "logoUrl": "/media/bands/the-white-stripes-00s.png?v=1781407151376",
+      "logoStatus": "ok",
+      "logoSource": "manual",
+      "memberIds": [
+        "jack-white-00s-the-white-stripes",
+        "meg-white-00s-the-white-stripes"
+      ],
+      "hidden": false
+    },
+    {
+      "key": "tool|90s",
+      "name": "Tool",
+      "era": "90s",
+      "tier": "A",
+      "genres": [
+        "metal"
+      ],
+      "logoUrl": "/media/bands/tool-90s.png?v=1781407167662",
+      "logoStatus": "ok",
+      "logoSource": "manual",
+      "memberIds": [
+        "maynard-james-keenan-90s-tool",
+        "adam-jones-90s-tool",
+        "justin-chancellor-90s-tool",
+        "danny-carey-90s-tool"
+      ],
+      "hidden": false
+    },
+    {
+      "key": "turnstile|20s",
+      "name": "Turnstile",
+      "era": "20s",
+      "tier": "B",
+      "genres": [
+        "punk"
+      ],
+      "logoUrl": "/media/bands/turnstile-20s.png?v=1781407191083",
+      "logoStatus": "ok",
+      "logoSource": "manual",
+      "memberIds": [
+        "brendan-yates-20s-turnstile",
+        "franz-lyons-20s-turnstile",
+        "pat-mccrory-20s-turnstile",
+        "daniel-fang-20s-turnstile"
+      ],
+      "hidden": false
+    },
+    {
+      "key": "twelve-foot-ninja|10s",
+      "name": "Twelve Foot Ninja",
+      "era": "10s",
+      "tier": "C",
+      "genres": [
+        "metal",
+        "alternative"
+      ],
+      "logoUrl": "/media/bands/twelve-foot-ninja-10s.png?v=1781407220321",
+      "logoStatus": "ok",
+      "logoSource": "manual",
+      "memberIds": [
+        "nik-kin-etik-barker-10s-twelve-foot-ninja",
+        "steve-stevic-mackay-10s-twelve-foot-ninja",
+        "rohan-ro-hayes-10s-twelve-foot-ninja",
+        "shane-russ-russell-10s-twelve-foot-ninja",
+        "damon-mckinnon-10s-twelve-foot-ninja"
+      ],
+      "hidden": false
+    },
+    {
+      "key": "u2|80s",
+      "name": "U2",
+      "era": "80s",
+      "tier": "A",
+      "genres": [
+        "alternative"
+      ],
+      "logoUrl": "/media/bands/u2-80s.png?v=1781407238944",
+      "logoStatus": "ok",
+      "logoSource": "manual",
+      "memberIds": [
+        "bono-80s-u2",
+        "the-edge-80s-u2",
+        "adam-clayton-80s-u2",
+        "larry-mullen-jr-80s-u2"
+      ],
+      "hidden": false
+    },
+    {
+      "key": "van-halen|80s",
+      "name": "Van Halen",
+      "era": "80s",
+      "tier": "A",
+      "genres": [
+        "rock"
+      ],
+      "logoUrl": "/media/bands/van-halen-80s.png?v=1781407251761",
+      "logoStatus": "ok",
+      "logoSource": "manual",
+      "memberIds": [
+        "david-lee-roth-80s-van-halen",
+        "eddie-van-halen-80s-van-halen",
+        "michael-anthony-80s-van-halen",
+        "alex-van-halen-80s-van-halen"
+      ],
+      "hidden": false
+    },
+    {
+      "key": "weezer|90s",
+      "name": "Weezer",
+      "era": "90s",
+      "tier": "A",
+      "genres": [
+        "rock"
+      ],
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Weezer_logo.png",
+      "logoStatus": "ok",
+      "logoSource": "manual",
+      "memberIds": [
+        "rivers-cuomo-90s-weezer",
+        "brian-bell-90s-weezer",
+        "matt-sharp-90s-weezer",
+        "patrick-wilson-90s-weezer"
+      ],
+      "hidden": false
+    },
+    {
+      "key": "wet-leg|20s",
+      "name": "Wet Leg",
+      "era": "20s",
+      "tier": "B",
+      "genres": [
+        "alternative"
+      ],
+      "logoUrl": "/media/bands/wet-leg-20s.png?v=1781407271399",
+      "logoStatus": "ok",
+      "logoSource": "manual",
+      "memberIds": [
+        "rhian-teasdale-20s-wet-leg",
+        "hester-chambers-20s-wet-leg",
+        "josh-mobley-20s-wet-leg",
+        "henry-holmes-20s-wet-leg"
+      ],
+      "hidden": false
+    },
+    {
+      "key": "white-zombie|90s",
+      "name": "White Zombie",
+      "era": "90s",
+      "tier": "A",
+      "genres": [
+        "metal"
+      ],
+      "logoUrl": "/media/bands/white-zombie-90s.png?v=1781407287204",
+      "logoStatus": "ok",
+      "logoSource": "manual",
+      "memberIds": [
+        "rob-zombie-90s-white-zombie",
+        "jay-j-yuenger-90s-white-zombie",
+        "sean-yseult-90s-white-zombie",
+        "john-tempesta-90s-white-zombie"
+      ],
+      "hidden": false
+    },
+    {
+      "key": "whitesnake|80s",
+      "name": "Whitesnake",
+      "era": "80s",
+      "tier": "A",
+      "genres": [
+        "rock"
+      ],
+      "logoUrl": "/media/bands/whitesnake-80s.png?v=1781407327772",
+      "logoStatus": "ok",
+      "logoSource": "manual",
+      "memberIds": [
+        "david-coverdale-80s-whitesnake",
+        "john-sykes-80s-whitesnake",
+        "adrian-vandenberg-80s-whitesnake",
+        "neil-murray-80s-whitesnake",
+        "cozy-powell-80s-whitesnake"
+      ],
+      "hidden": false
+    },
+    {
+      "key": "wolfmother|00s",
+      "name": "Wolfmother",
+      "era": "00s",
+      "tier": "B",
+      "genres": [
+        "rock"
+      ],
+      "logoUrl": "/media/bands/wolfmother-00s.png?v=1781407342950",
+      "logoStatus": "ok",
+      "logoSource": "manual",
+      "memberIds": [
+        "andrew-stockdale-00s-wolfmother",
+        "chris-ross-00s-wolfmother",
+        "myles-heskett-00s-wolfmother"
+      ],
+      "hidden": false
+    }
+  ]
+}

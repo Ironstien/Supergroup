@@ -1,0 +1,81 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://supergroup.local/schemas/musician.json",
+  "title": "SupergroupMusician",
+  "description": "Musician record for Supergroup pick pools",
+  "type": "object",
+  "required": ["id", "name", "era", "genres", "stats"],
+  "properties": {
+    "id": {
+      "type": "string",
+      "description": "Stable slug e.g. dave-grohl"
+    },
+    "name": { "type": "string" },
+    "band": {
+      "type": "string",
+      "description": "Primary band or act; use Solo for solo artists"
+    },
+    "era": {
+      "type": "string",
+      "enum": ["80s", "90s", "00s", "10s", "20s"],
+      "description": "Peak era for pool assignment (Genre · Era spins)"
+    },
+    "genres": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "enum": [
+          "rock",
+          "metal",
+          "punk",
+          "alternative"
+        ]
+      },
+      "minItems": 1,
+      "maxItems": 3,
+      "description": "1–3 genre tags for pool indexing (4 locked genres — see docs/GENRES.md)"
+    },
+    "imageUrl": { "type": "string" },
+    "stats": {
+      "type": "object",
+      "description": "FAB FIVE — visible on every card (0–99)",
+      "required": ["vox", "play", "groove", "star", "desk"],
+      "properties": {
+        "vox": { "type": "integer", "minimum": 0, "maximum": 99 },
+        "play": { "type": "integer", "minimum": 0, "maximum": 99 },
+        "groove": { "type": "integer", "minimum": 0, "maximum": 99 },
+        "star": { "type": "integer", "minimum": 0, "maximum": 99 },
+        "desk": { "type": "integer", "minimum": 0, "maximum": 99 }
+      },
+      "additionalProperties": false
+    },
+    "eligibleSlots": {
+      "type": "array",
+      "items": {
+        "enum": ["Vocals", "Guitar", "Bass", "Drums", "Producer"]
+      },
+      "description": "Optional explicit eligibility; omit to derive from slot rating weights"
+    },
+    "beef": {
+      "type": "array",
+      "items": { "type": "string" },
+      "description": "Musician ids with known beef — increases outcome variance when paired"
+    },
+    "derived": {
+      "type": "object",
+      "description": "Build-time slot ratings from FAB FIVE weights",
+      "properties": {
+        "slotRatings": {
+          "type": "object",
+          "properties": {
+            "Vocals": { "type": "number" },
+            "Guitar": { "type": "number" },
+            "Bass": { "type": "number" },
+            "Drums": { "type": "number" },
+            "Producer": { "type": "number" }
+          }
+        }
+      }
+    }
+  }
+}

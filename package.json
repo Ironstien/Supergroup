@@ -1,0 +1,29 @@
+{
+  "name": "supergroup",
+  "version": "3.4.0",
+  "description": "Supergroup — dream band pick game",
+  "private": true,
+  "dependencies": {
+    "@supabase/supabase-js": "^2.49.8"
+  },
+  "scripts": {
+    "seed-musicians": "node scripts/build-musicians.js",
+    "sync-roster": "node scripts/sync-roster-from-txt.js",
+    "build-roster": "node scripts/sync-roster-from-txt.js && node scripts/build-musicians.js",
+    "build-musicians": "node scripts/build-musicians.js",
+    "fetch-media": "node scripts/fetch-media.js",
+    "fetch-media:bands": "node scripts/fetch-media.js --bands-only --force-missing",
+    "fetch-media:photos": "node scripts/fetch-media.js --force-missing",
+    "audit-pools": "node scripts/audit-pools.js",
+    "preview-music-prompt": "node scripts/preview-music-prompt.js",
+    "dev": "npm run dev --prefix app",
+    "dev:api": "node server/index.js",
+    "dev:api:fresh": "node scripts/restart-api.cjs",
+    "dev:full": "node scripts/dev-full.cjs",
+    "build": "npm run build --prefix app",
+    "preview": "node scripts/preview-share.cjs"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}

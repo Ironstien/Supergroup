@@ -1,0 +1,43 @@
+{
+  "bands": {
+    "blink-182|90s": {
+      "removeMembers": [
+        "scott-raynor-90s-blink-182"
+      ],
+      "addMembers": [
+        {
+          "name": "Travis Barker",
+          "slots": [
+            "Drums"
+          ]
+        }
+      ]
+    },
+    "coal-chamber|90s": {
+      "removeMembers": [
+        "rayna-roy-90s-coal-chamber"
+      ],
+      "addMembers": [
+        {
+          "name": "Rayna Foss",
+          "slots": [
+            "Bass"
+          ]
+        }
+      ]
+    },
+    "everclear|90s": {
+      "removeMembers": [
+        "scott-cuthbert-90s-everclear"
+      ],
+      "addMembers": [
+        {
+          "name": "Brian Nolan",
+          "slots": [
+            "Drums"
+          ]
+        }
+      ]
+    }
+  }
+}

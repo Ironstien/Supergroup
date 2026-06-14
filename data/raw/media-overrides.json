@@ -1,0 +1,1305 @@
+{
+  "bands": {
+    "ac-dc|80s": {
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Logo_ACDC_pwrup.svg/1280px-Logo_ACDC_pwrup.svg.png?_=20240318211340"
+    },
+    "3-doors-down|00s": {
+      "logoUrl": "/media/bands/3-doors-down-00s.png?v=1781403918688"
+    },
+    "alice-in-chains|90s": {
+      "logoUrl": "/media/bands/alice-in-chains-90s.png?v=1781404232659"
+    },
+    "amyl-and-the-sniffers|10s": {
+      "logoUrl": "/media/bands/amyl-and-the-sniffers-10s.png?v=1781404252573"
+    },
+    "anthrax|80s": {
+      "logoUrl": "/media/bands/anthrax-80s.png?v=1781404286734"
+    },
+    "at-the-drive-in|90s": {
+      "logoUrl": "/media/bands/at-the-drive-in-90s.png?v=1781404437248"
+    },
+    "avenged-sevenfold|00s": {
+      "logoUrl": "/media/bands/avenged-sevenfold-00s.png?v=1781404484602"
+    },
+    "bad-religion|80s": {
+      "logoUrl": "/media/bands/bad-religion-80s.png?v=1781404531030"
+    },
+    "black-flag|80s": {
+      "logoUrl": "/media/bands/black-flag-80s.png?v=1781404562594"
+    },
+    "blink-182|90s": {
+      "logoUrl": "/media/bands/blink-182-90s.png?v=1781404587997"
+    },
+    "audioslave|00s": {
+      "logoUrl": "/media/bands/audioslave-00s.png?v=1781404458174"
+    },
+    "blur|90s": {
+      "logoUrl": "/media/bands/blur-90s.png?v=1781404606148"
+    },
+    "bon-jovi|80s": {
+      "logoUrl": "/media/bands/bon-jovi-80s.png?v=1781404621382"
+    },
+    "bush|90s": {
+      "logoUrl": "/media/bands/bush-90s.png?v=1781404754024"
+    },
+    "coal-chamber|90s": {
+      "logoUrl": "/media/bands/coal-chamber-90s.png?v=1781404777652"
+    },
+    "coldplay|00s": {
+      "logoUrl": "/media/bands/coldplay-00s.png?v=1781404854018"
+    },
+    "creed|90s": {
+      "logoUrl": "/media/bands/creed-90s.png?v=1781404875022"
+    },
+    "dead-kennedys|80s": {
+      "logoUrl": "/media/bands/dead-kennedys-80s.png?v=1781404916582"
+    },
+    "deftones|90s": {
+      "logoUrl": "/media/bands/deftones-90s.png?v=1781404935309"
+    },
+    "descendents|90s": {
+      "logoUrl": "/media/bands/descendents-90s.png?v=1781404964075"
+    },
+    "dire-straits|80s": {
+      "logoUrl": "/media/bands/dire-straits-80s.png?v=1781404986212"
+    },
+    "disturbed|00s": {
+      "logoUrl": "/media/bands/disturbed-00s.png?v=1781405008862"
+    },
+    "down|90s": {
+      "logoUrl": "/media/bands/down-90s.png?v=1781405025651"
+    },
+    "everclear|90s": {
+      "logoUrl": "/media/bands/everclear-90s.png?v=1781405160398"
+    },
+    "faith-no-more|90s": {
+      "logoUrl": "/media/bands/faith-no-more-90s.png?v=1781405181198"
+    },
+    "gojira|00s": {
+      "logoUrl": "/media/bands/gojira-00s.png?v=1781405208096"
+    },
+    "green-day|90s": {
+      "logoUrl": "/media/bands/green-day-90s.png?v=1781405225238"
+    },
+    "guns-n-roses|80s": {
+      "logoUrl": "/media/bands/guns-n-roses-80s.png?v=1781405246062"
+    },
+    "helmet|90s": {
+      "logoUrl": "/media/bands/helmet-90s.png?v=1781405283016"
+    },
+    "iron-maiden|80s": {
+      "logoUrl": "/media/bands/iron-maiden-80s.png?v=1781405300308"
+    },
+    "jane-s-addiction|80s": {
+      "logoUrl": "/media/bands/jane-s-addiction-80s.png?v=1781405315276"
+    },
+    "korn|90s": {
+      "logoUrl": "/media/bands/korn-90s.png?v=1781405336189"
+    },
+    "kyuss|90s": {
+      "logoUrl": "/media/bands/kyuss-90s.png?v=1781405388894"
+    },
+    "l7|90s": {
+      "logoUrl": "/media/bands/l7-90s.png?v=1781405402715"
+    },
+    "lamb-of-god|00s": {
+      "logoUrl": "/media/bands/lamb-of-god-00s.png?v=1781405459717"
+    },
+    "limp-bizkit|90s": {
+      "logoUrl": "/media/bands/limp-bizkit-90s.png?v=1781405481827"
+    },
+    "linkin-park|00s": {
+      "logoUrl": "/media/bands/linkin-park-00s.png?v=1781405498892"
+    },
+    "live|90s": {
+      "logoUrl": "/media/bands/live-90s.png?v=1781405530089"
+    },
+    "mastodon|00s": {
+      "logoUrl": "/media/bands/mastodon-00s.png?v=1781405582843"
+    },
+    "matchbox-twenty|90s": {
+      "logoUrl": "/media/bands/matchbox-twenty-90s.png?v=1781405603066"
+    },
+    "megadeth|80s": {
+      "logoUrl": "/media/bands/megadeth-80s.png?v=1781405648094"
+    },
+    "melvins|80s": {
+      "logoUrl": "/media/bands/melvins-80s.png?v=1781405665470"
+    },
+    "metallica|80s": {
+      "logoUrl": "/media/bands/metallica-80s.png?v=1781405691782"
+    },
+    "misfits|80s": {
+      "logoUrl": "/media/bands/misfits-80s.png?v=1781405704477"
+    },
+    "motley-crue|80s": {
+      "logoUrl": "/media/bands/motley-crue-80s.png?v=1781405753704"
+    },
+    "motorhead|80s": {
+      "logoUrl": "/media/bands/motorhead-80s.png?v=1781405766581"
+    },
+    "mudvayne|00s": {
+      "logoUrl": "/media/bands/mudvayne-00s.png?v=1781405779119"
+    },
+    "muse|00s": {
+      "logoUrl": "/media/bands/muse-00s.png?v=1781405792707"
+    },
+    "nirvana|90s": {
+      "logoUrl": "/media/bands/nirvana-90s.png?v=1781405827831"
+    },
+    "nofx|90s": {
+      "logoUrl": "/media/bands/nofx-90s.png?v=1781405844813"
+    },
+    "oasis|90s": {
+      "logoUrl": "/media/bands/oasis-90s.png?v=1781405860723"
+    },
+    "ozzy-osbourne|80s": {
+      "logoUrl": "/media/bands/ozzy-osbourne-80s.png?v=1781405885569"
+    },
+    "pantera|90s": {
+      "logoUrl": "/media/bands/pantera-90s.png?v=1781405902035"
+    },
+    "parkway-drive|10s": {
+      "logoUrl": "/media/bands/parkway-drive-10s.png?v=1781405937316"
+    },
+    "pearl-jam|90s": {
+      "logoUrl": "/media/bands/pearl-jam-90s.png?v=1781405968790"
+    },
+    "pennywise|90s": {
+      "logoUrl": "/media/bands/pennywise-90s.png?v=1781406120113"
+    },
+    "periphery|10s": {
+      "logoUrl": "/media/bands/periphery-10s.png?v=1781406184385"
+    },
+    "pixies|80s": {
+      "logoUrl": "/media/bands/pixies-80s.png?v=1781406228763"
+    },
+    "primus|90s": {
+      "logoUrl": "/media/bands/primus-90s.png?v=1781406421872"
+    },
+    "queens-of-the-stone-age|00s": {
+      "logoUrl": "/media/bands/queens-of-the-stone-age-00s.png?v=1781406437442"
+    },
+    "r-e-m|80s": {
+      "logoUrl": "/media/bands/r-e-m-80s.png?v=1781406473773"
+    },
+    "radiohead|90s": {
+      "logoUrl": "/media/bands/radiohead-90s.png?v=1781406504796"
+    },
+    "rage-against-the-machine|90s": {
+      "logoUrl": "/media/bands/rage-against-the-machine-90s.png?v=1781406524036"
+    },
+    "rammstein|90s": {
+      "logoUrl": "/media/bands/rammstein-90s.png?v=1781406545684"
+    },
+    "rancid|90s": {
+      "logoUrl": "/media/bands/rancid-90s.png?v=1781406564673"
+    },
+    "red-hot-chili-peppers|90s": {
+      "logoUrl": "/media/bands/red-hot-chili-peppers-90s.png?v=1781406590791"
+    },
+    "refused|90s": {
+      "logoUrl": "/media/bands/refused-90s.png?v=1781406607282"
+    },
+    "regurgitator|90s": {
+      "logoUrl": "/media/bands/regurgitator-90s.png?v=1781406645867"
+    },
+    "sepultura|90s": {
+      "logoUrl": "/media/bands/sepultura-90s.png?v=1781406663074"
+    },
+    "shihad|90s": {
+      "logoUrl": "/media/bands/shihad-90s.png?v=1781406720422"
+    },
+    "silverchair|90s": {
+      "logoUrl": "/media/bands/silverchair-90s.png?v=1781406741267"
+    },
+    "slayer|80s": {
+      "logoUrl": "/media/bands/slayer-80s.png?v=1781406755188"
+    },
+    "slipknot|00s": {
+      "logoUrl": "/media/bands/slipknot-00s.png?v=1781406779952"
+    },
+    "sonic-youth|80s": {
+      "logoUrl": "/media/bands/sonic-youth-80s.png?v=1781406790611"
+    },
+    "soulfly|90s": {
+      "logoUrl": "/media/bands/soulfly-90s.png?v=1781406803048"
+    },
+    "soundgarden|90s": {
+      "logoUrl": "/media/bands/soundgarden-90s.png?v=1781406829592"
+    },
+    "spiderbait|90s": {
+      "logoUrl": "/media/bands/spiderbait-90s.png?v=1781406883315"
+    },
+    "sum-41|00s": {
+      "logoUrl": "/media/bands/sum-41-00s.png?v=1781406903535"
+    },
+    "system-of-a-down|00s": {
+      "logoUrl": "/media/bands/system-of-a-down-00s.png?v=1781406920183"
+    },
+    "talking-heads|80s": {
+      "logoUrl": "/media/bands/talking-heads-80s.png?v=1781406945004"
+    },
+    "testament|80s": {
+      "logoUrl": "/media/bands/testament-80s.png?v=1781406972541"
+    },
+    "the-clash|80s": {
+      "logoUrl": "/media/bands/the-clash-80s.png?v=1781406993906"
+    },
+    "the-cure|80s": {
+      "logoUrl": "/media/bands/the-cure-80s.png?v=1781407015183"
+    },
+    "the-killers|00s": {
+      "logoUrl": "/media/bands/the-killers-00s.png?v=1781407044090"
+    },
+    "the-living-end|90s": {
+      "logoUrl": "/media/bands/the-living-end-90s.png?v=1781407069586"
+    },
+    "the-offspring|90s": {
+      "logoUrl": "/media/bands/the-offspring-90s.png?v=1781407087490"
+    },
+    "the-smashing-pumpkins|90s": {
+      "logoUrl": "/media/bands/the-smashing-pumpkins-90s.png?v=1781407102696"
+    },
+    "the-smiths|80s": {
+      "logoUrl": "/media/bands/the-smiths-80s.png?v=1781407117678"
+    },
+    "the-used|00s": {
+      "logoUrl": "/media/bands/the-used-00s.png?v=1781407138428"
+    },
+    "the-white-stripes|00s": {
+      "logoUrl": "/media/bands/the-white-stripes-00s.png?v=1781407151376"
+    },
+    "tool|90s": {
+      "logoUrl": "/media/bands/tool-90s.png?v=1781407167662"
+    },
+    "turnstile|20s": {
+      "logoUrl": "/media/bands/turnstile-20s.png?v=1781407191083"
+    },
+    "twelve-foot-ninja|10s": {
+      "logoUrl": "/media/bands/twelve-foot-ninja-10s.png?v=1781407220321"
+    },
+    "u2|80s": {
+      "logoUrl": "/media/bands/u2-80s.png?v=1781407238944"
+    },
+    "van-halen|80s": {
+      "logoUrl": "/media/bands/van-halen-80s.png?v=1781407251761"
+    },
+    "wet-leg|20s": {
+      "logoUrl": "/media/bands/wet-leg-20s.png?v=1781407271399"
+    },
+    "white-zombie|90s": {
+      "logoUrl": "/media/bands/white-zombie-90s.png?v=1781407287204"
+    },
+    "whitesnake|80s": {
+      "logoUrl": "/media/bands/whitesnake-80s.png?v=1781407327772"
+    },
+    "wolfmother|00s": {
+      "logoUrl": "/media/bands/wolfmother-00s.png?v=1781407342950"
+    },
+    "against-me|00s": {
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Early_Medieval_Zoomorphic_Mount_%28FindID_567832%29.jpg"
+    },
+    "alkaline-trio|00s": {
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/8/87/A_Trio_of_Ethiopian_Lakes_%28iss071e132461%29.jpg"
+    },
+    "arcade-fire|00s": {
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Reflektor_logo_in_Wapping%2C_London_%282%29.jpg"
+    },
+    "architects|10s": {
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Ahrends_bruno_buehnenhalle_schule_am_meer_1929.png"
+    },
+    "arctic-monkeys|00s": {
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Amplitude_modulation.gif"
+    },
+    "bastille|10s": {
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c1/CHEERLEADER_CHATS_WITH_HIGH_SCHOOL_BAND_LEADER_BEFORE_MEMORIAL_DAY_PARADE_AT_THE_LITTLE_TOWN_OF_INLET_NEAR_THE_FULTON..._-_NARA_-_554451.tif"
+    },
+    "bring-me-the-horizon|10s": {
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d0/NH-Pluto-Atmosphere-20150810.jpg"
+    },
+    "bullet-for-my-valentine|00s": {
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/4/43/Breaking_Point.jpg"
+    },
+    "collective-soul|90s": {
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/9/95/Body-Mind-SOUL--Matter-Energy-SPIRIT.png"
+    },
+    "creed|00s": {
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Creed_%28Logo%29.png"
+    },
+    "deafheaven|10s": {
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/a/af/Deafheaven_Logo_F_Black.jpg"
+    },
+    "def-leppard|80s": {
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/9/93/Def_Leppard_logo.png"
+    },
+    "dio|80s": {
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2c/C.F.Martin_Tour-29.jpg"
+    },
+    "fall-out-boy|00s": {
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/2/25/FOBtourLogo.png"
+    },
+    "foo-fighters|00s": {
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Foo_Fighters_%28Logo%29.png"
+    },
+    "foo-fighters|90s": {
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Foo_Fighters_%28Logo%29.png"
+    },
+    "foreigner|80s": {
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/5/50/Foreigner_logo.png"
+    },
+    "ghost|10s": {
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Ghost_crater_near_Goclenius_%28LRO%29.png"
+    },
+    "ice-nine-kills|20s": {
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/1/14/Vegetative_Regeneration_in_the_Park_Fire_Burn_Scar_%28MODIS_2025-04-22%29.jpg"
+    },
+    "idles|10s": {
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Idle_Vandals_mug_featuring_mascot.jpg"
+    },
+    "inhaler|20s": {
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Foradil.JPG"
+    },
+    "interpol|00s": {
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Interpol_%28Logo%29.png"
+    },
+    "journey|80s": {
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d6/United_States_Marine_Band_Performs_at_Goddard_%2853027109217%29.jpg"
+    },
+    "judas-priest|80s": {
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Judas_Priest_logo.png"
+    },
+    "knocked-loose|20s": {
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Lunar_Hole_In_One%21_%284627171262%29.jpg"
+    },
+    "lovejoy|20s": {
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/0/07/The_Milky_Way_and_Storms_over_Africa_%28video%29_%286722061883%29.jpg"
+    },
+    "minor-threat|80s": {
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Minor_Threat.jpg"
+    },
+    "my-chemical-romance|00s": {
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/c/cb/My_Chemical_Romance_logo.png"
+    },
+    "nickelback|00s": {
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/5/53/Nickelbacklogo.png"
+    },
+    "nothing-but-thieves|20s": {
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/4/42/Nothing_but_Thieves_Mad_Cool_2016.jpg"
+    },
+    "polaris|20s": {
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/5/52/Sukanya_class_Offshore_Patrol_Vessels_emblem.jpg"
+    },
+    "rise-against|00s": {
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/3/37/Mars_Viking_22a002.png"
+    },
+    "royal-blood|10s": {
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/1/10/Welsh_Guards_Band_in_a_sea_of_poppies.jpg"
+    },
+    "scorpions|80s": {
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Photo_31469201-2.jpg"
+    },
+    "stone-temple-pilots|90s": {
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/9/99/Stone_Temple_Pilots_%28Logo%29.png"
+    },
+    "taking-back-sunday|00s": {
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9c/The_Antares_rocket_clears_the_launch_pad_on_its_way_to_orbit.jpg"
+    },
+    "the-hives|20s": {
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/6/68/NASA_Kennedy_Wildlife_-_Bees_swarm_around_hives.jpg"
+    },
+    "the-story-so-far|10s": {
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1c/The_Story_So_Far_Logo.png"
+    },
+    "the-struts|10s": {
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/9/90/Panoramic_photo_of_Mars_by_Viking_I.jpg"
+    },
+    "third-eye-blind|90s": {
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Third_Eye_Blind_at_SUNY_Geneseo.jpg"
+    },
+    "title-fight|10s": {
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Thor%27s_Fight_with_the_Giants_%28M%C3%A5rten_Winge%29_-_Nationalmuseum_-_18253.tiff"
+    },
+    "twenty-one-pilots|10s": {
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/7/79/Twenty_One_Pilots_logo.png"
+    },
+    "weezer|90s": {
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Weezer_logo.png"
+    },
+    "nine-inch-nails|90s": {
+      "logoUrl": "/media/bands/nine-inch-nails-90s.png?v=1781423830869"
+    }
+  },
+  "musicians": {
+    "brad-arnold-00s-3-doors-down": {
+      "imageUrl": "/media/musicians/brad-arnold-00s-3-doors-down.png?v=1781384786339"
+    },
+    "chris-henderson-00s-3-doors-down": {
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoKWfqskZEV8NtsPX4qRcTRHKJfYRdj0TK4v4GFJ2WDQ&s=10"
+    },
+    "todd-harrell-00s-3-doors-down": {
+      "imageUrl": "/media/musicians/todd-harrell-00s-3-doors-down.png?v=1781385961488"
+    },
+    "matt-roberts-00s-3-doors-down": {
+      "imageUrl": "/media/musicians/matt-roberts-00s-3-doors-down.png?v=1781384786339"
+    },
+    "angus-young-80s-ac-dc": {
+      "imageUrl": "/media/musicians/angus-young-80s-ac-dc.png?v=1781385725222"
+    },
+    "malcolm-young-80s-ac-dc": {
+      "imageUrl": "/media/musicians/malcolm-young-80s-ac-dc.png?v=1781385746260"
+    },
+    "cliff-williams-80s-ac-dc": {
+      "imageUrl": "/media/musicians/cliff-williams-80s-ac-dc.png?v=1781386036676"
+    },
+    "phil-rudd-80s-ac-dc": {
+      "imageUrl": "/media/musicians/phil-rudd-80s-ac-dc.png?v=1781386066502"
+    },
+    "declan-mehmet-10s-amyl-and-the-sniffers": {
+      "imageUrl": "/media/musicians/declan-mehmet-10s-amyl-and-the-sniffers.png?v=1781386213516"
+    },
+    "scott-ian-80s-anthrax": {
+      "imageUrl": "/media/musicians/scott-ian-80s-anthrax.png?v=1781386272501"
+    },
+    "dan-spitz-80s-anthrax": {
+      "imageUrl": "/media/musicians/dan-spitz-80s-anthrax.png?v=1781386295152"
+    },
+    "frank-bello-80s-anthrax": {
+      "imageUrl": "/media/musicians/frank-bello-80s-anthrax.png?v=1781386319035"
+    },
+    "charlie-benante-80s-anthrax": {
+      "imageUrl": "/media/musicians/charlie-benante-80s-anthrax.png?v=1781386369897"
+    },
+    "cedric-bixler-zavala-90s-at-the-drive-in": {
+      "imageUrl": "/media/musicians/cedric-bixler-zavala-90s-at-the-drive-in.png?v=1781386435968"
+    },
+    "omar-rodriguez-lopez-90s-at-the-drive-in": {
+      "imageUrl": "/media/musicians/omar-rodriguez-lopez-90s-at-the-drive-in.png?v=1781386460559"
+    },
+    "jim-ward-90s-at-the-drive-in": {
+      "imageUrl": "/media/musicians/jim-ward-90s-at-the-drive-in.png?v=1781386491413"
+    },
+    "paul-hinojos-90s-at-the-drive-in": {
+      "imageUrl": "/media/musicians/paul-hinojos-90s-at-the-drive-in.png?v=1781386590375"
+    },
+    "tony-hajjar-90s-at-the-drive-in": {
+      "imageUrl": "/media/musicians/tony-hajjar-90s-at-the-drive-in.png?v=1781386646436"
+    },
+    "chris-cornell-00s-audioslave": {
+      "imageUrl": "/media/musicians/chris-cornell-00s-audioslave.png?v=1781386694318"
+    },
+    "tom-morello-00s-audioslave": {
+      "imageUrl": "/media/musicians/tom-morello-00s-audioslave.png?v=1781386754840"
+    },
+    "the-rev-00s-avenged-sevenfold": {
+      "imageUrl": "/media/musicians/the-rev-00s-avenged-sevenfold.png?v=1781386799846"
+    },
+    "pete-finestone-80s-bad-religion": {
+      "imageUrl": "/media/musicians/pete-finestone-80s-bad-religion.png?v=1781387023581"
+    },
+    "henry-rollins-80s-black-flag": {
+      "imageUrl": "/media/musicians/henry-rollins-80s-black-flag.png?v=1781387061161"
+    },
+    "greg-ginn-80s-black-flag": {
+      "imageUrl": "/media/musicians/greg-ginn-80s-black-flag.png?v=1781387082405"
+    },
+    "mark-hoppus-90s-blink-182": {
+      "imageUrl": "/media/musicians/mark-hoppus-90s-blink-182.png?v=1781387403348"
+    },
+    "mike-starr-90s-alice-in-chains": {
+      "imageUrl": "/media/musicians/mike-starr-90s-alice-in-chains.png?v=1781418059895"
+    },
+    "sean-kinney-90s-alice-in-chains": {
+      "imageUrl": "/media/musicians/sean-kinney-90s-alice-in-chains.png?v=1781418094607"
+    },
+    "layne-staley-90s-alice-in-chains": {
+      "imageUrl": "/media/musicians/layne-staley-90s-alice-in-chains.png?v=1781418109052"
+    },
+    "joey-belladonna-80s-anthrax": {
+      "imageUrl": "/media/musicians/joey-belladonna-80s-anthrax.png?v=1781418309094"
+    },
+    "tom-delonge-90s-blink-182": {
+      "imageUrl": "/media/musicians/tom-delonge-90s-blink-182.png?v=1781418723829"
+    },
+    "travis-barker-90s-blink-182": {
+      "imageUrl": "/media/musicians/travis-barker-90s-blink-182.png?v=1781419076465"
+    },
+    "damon-albarn-90s-blur": {
+      "imageUrl": "/media/musicians/damon-albarn-90s-blur.png?v=1781419946567"
+    },
+    "graham-coxon-90s-blur": {
+      "imageUrl": "/media/musicians/graham-coxon-90s-blur.png?v=1781419965406"
+    },
+    "alex-james-90s-blur": {
+      "imageUrl": "/media/musicians/alex-james-90s-blur.png?v=1781419984712"
+    },
+    "jon-bon-jovi-80s-bon-jovi": {
+      "imageUrl": "/media/musicians/jon-bon-jovi-80s-bon-jovi.png?v=1781420146935"
+    },
+    "richie-sambora-80s-bon-jovi": {
+      "imageUrl": "/media/musicians/richie-sambora-80s-bon-jovi.png?v=1781420159597"
+    },
+    "alec-john-such-80s-bon-jovi": {
+      "imageUrl": "/media/musicians/alec-john-such-80s-bon-jovi.png?v=1781420178427"
+    },
+    "tico-torres-80s-bon-jovi": {
+      "imageUrl": "/media/musicians/tico-torres-80s-bon-jovi.png?v=1781420203777"
+    },
+    "gavin-rossdale-90s-bush": {
+      "imageUrl": "/media/musicians/gavin-rossdale-90s-bush.png?v=1781420226904"
+    },
+    "nigel-pulsford-90s-bush": {
+      "imageUrl": "/media/musicians/nigel-pulsford-90s-bush.png?v=1781420242890"
+    },
+    "robin-goodridge-90s-bush": {
+      "imageUrl": "/media/musicians/robin-goodridge-90s-bush.png?v=1781420334259"
+    },
+    "dez-fafara-90s-coal-chamber": {
+      "imageUrl": "/media/musicians/dez-fafara-90s-coal-chamber.png?v=1781420358959"
+    },
+    "miguel-meegs-rascon-90s-coal-chamber": {
+      "imageUrl": "/media/musicians/miguel-meegs-rascon-90s-coal-chamber.png?v=1781420375824"
+    },
+    "rayna-foss-90s-coal-chamber": {
+      "imageUrl": "/media/musicians/rayna-foss-90s-coal-chamber.png?v=1781420623033"
+    },
+    "d-h-peligro-80s-dead-kennedys": {
+      "imageUrl": "/media/musicians/d-h-peligro-80s-dead-kennedys.png?v=1781420649910"
+    },
+    "joe-elliott-80s-def-leppard": {
+      "imageUrl": "/media/musicians/joe-elliott-80s-def-leppard.png?v=1781420678692"
+    },
+    "steve-clark-80s-def-leppard": {
+      "imageUrl": "/media/musicians/steve-clark-80s-def-leppard.png?v=1781420718446"
+    },
+    "phil-collen-80s-def-leppard": {
+      "imageUrl": "/media/musicians/phil-collen-80s-def-leppard.png?v=1781420734246"
+    },
+    "chino-moreno-90s-deftones": {
+      "imageUrl": "/media/musicians/chino-moreno-90s-deftones.png?v=1781420763367"
+    },
+    "abe-cunningham-90s-deftones": {
+      "imageUrl": "/media/musicians/abe-cunningham-90s-deftones.png?v=1781420781189"
+    },
+    "bill-stevenson-90s-descendents": {
+      "imageUrl": "/media/musicians/bill-stevenson-90s-descendents.png?v=1781420798543"
+    },
+    "mark-knopfler-80s-dire-straits": {
+      "imageUrl": "/media/musicians/mark-knopfler-80s-dire-straits.png?v=1781420813664"
+    },
+    "dan-donegan-00s-disturbed": {
+      "imageUrl": "/media/musicians/dan-donegan-00s-disturbed.png?v=1781420835516"
+    },
+    "john-moyer-00s-disturbed": {
+      "imageUrl": "/media/musicians/john-moyer-00s-disturbed.png?v=1781420846218"
+    },
+    "mike-wengren-00s-disturbed": {
+      "imageUrl": "/media/musicians/mike-wengren-00s-disturbed.png?v=1781420865026"
+    },
+    "phil-anselmo-90s-down": {
+      "imageUrl": "/media/musicians/phil-anselmo-90s-down.png?v=1781420904150"
+    },
+    "pepper-keenan-90s-down": {
+      "imageUrl": "/media/musicians/pepper-keenan-90s-down.png?v=1781420919016"
+    },
+    "kirk-windstein-90s-down": {
+      "imageUrl": "/media/musicians/kirk-windstein-90s-down.png?v=1781420936110"
+    },
+    "rex-brown-90s-down": {
+      "imageUrl": "/media/musicians/rex-brown-90s-down.png?v=1781420950236"
+    },
+    "jimmy-bower-90s-down": {
+      "imageUrl": "/media/musicians/jimmy-bower-90s-down.png?v=1781420986642"
+    },
+    "greg-eklund-90s-everclear": {
+      "imageUrl": "/media/musicians/greg-eklund-90s-everclear.png?v=1781421013026"
+    },
+    "craig-montoya-90s-everclear": {
+      "imageUrl": "/media/musicians/craig-montoya-90s-everclear.png?v=1781421024120"
+    },
+    "brian-johnson-80s-ac-dc": {
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Jaguar%27s_%27Perfect_Ten%27_-_Most_important_and_iconic_Jaguar_cars_%28-2022464677%29.jpg"
+    },
+    "jerry-cantrell-90s-alice-in-chains": {
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9c/2019_RiP_Alice_in_Chains_-_Jerry_Cantrell_-_by_2eight_-_8SC0327.jpg"
+    },
+    "amy-taylor-10s-amyl-and-the-sniffers": {
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Amy_Taylor_51_%28cropped%29.jpg"
+    },
+    "tim-commerford-00s-audioslave": {
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/66/Timmy_C_Big_Day_Out_2008.jpg"
+    },
+    "brad-wilk-00s-audioslave": {
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Brad_Wilk.jpg"
+    },
+    "m-shadows-00s-avenged-sevenfold": {
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Avenged_Sevenfold_%2832509055635%29.jpg"
+    },
+    "synyster-gates-00s-avenged-sevenfold": {
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Synyster_Gates_in_2018.jpg"
+    },
+    "zacky-vengeance-00s-avenged-sevenfold": {
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/21/Avenged_Sevenfold-Rock_im_Park_2014_by_2eight_3SC7794.jpg"
+    },
+    "johnny-christ-00s-avenged-sevenfold": {
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/42/Avenged_Sevenfold_%2832130221410%29_%28cropped%29.jpg"
+    },
+    "greg-graffin-80s-bad-religion": {
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e2/2018_RiP_-_Bad_Religion_-_by_2eight_-_3SC6640.jpg"
+    },
+    "brett-gurewitz-80s-bad-religion": {
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Brett_Gurewitz_of_Bad_Religion.jpg"
+    },
+    "jay-bentley-80s-bad-religion": {
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/95/13-08-10_Taubertal_Bad_Religion_Jay_Bentley_1.JPG"
+    },
+    "chuck-dukowski-80s-black-flag": {
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/96/Black_Flag_2011-12-18_04.jpg"
+    },
+    "bill-stevenson-80s-black-flag": {
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Descendents_2014-09-28_04.JPG"
+    },
+    "dave-rowntree-90s-blur": {
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/25/BlurWembley090723_%2834_of_172%29_%28cropped%29.jpg"
+    },
+    "dave-parsons-90s-bush": {
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8d/EVERGLADES_RESTORATION_%28IA_gov.gpo.fdsys.CHRG-106shrg63232%29.pdf"
+    },
+    "chris-martin-00s-coldplay": {
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/68/ChrisMartinManch030623_%28cropped%29.jpg"
+    },
+    "jonny-buckland-00s-coldplay": {
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/81/JonnyBucklandGlasto290624_%28cropped%29.jpg"
+    },
+    "guy-berryman-00s-coldplay": {
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/52/GuyBerrymanWembley120925_%28cropped%29.jpg"
+    },
+    "will-champion-00s-coldplay": {
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0e/WillChampionWembley120925_%28cropped%29.jpg"
+    },
+    "scott-stapp-90s-creed": {
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/30/Scott_Stapp_2016_%28cropped%29.jpg"
+    },
+    "mark-tremonti-90s-creed": {
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Mark_Tremonti_%28cropped%29.jpg"
+    },
+    "brian-marshall-90s-creed": {
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Brian_Marshall_Bassist.jpg"
+    },
+    "scott-phillips-90s-creed": {
+      "imageUrl": "/media/musicians/scott-phillips-90s-creed.png?v=1781422996195"
+    },
+    "jello-biafra-80s-dead-kennedys": {
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Jello_Biafra_2014.jpg"
+    },
+    "east-bay-ray-80s-dead-kennedys": {
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d8/2019_Dead_Kennedys_-_East_Bay_Ray_-_by_2eight_-_DSC4259.jpg"
+    },
+    "klaus-flouride-80s-dead-kennedys": {
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4c/2019_Dead_Kennedys_-_Klaus_Flouride_-_by_2eight_-_DSC4236.jpg"
+    },
+    "rick-savage-80s-def-leppard": {
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/87/Rick_Savage_Performing.jpg"
+    },
+    "rick-allen-80s-def-leppard": {
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c5/DefLappardO2061218-51_%2849913641228%29_%28Cropped%29.jpg"
+    },
+    "stephen-carpenter-90s-deftones": {
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Stephen_Carpenter_Deftones_Rock_im_Park_2016.jpg"
+    },
+    "chi-cheng-90s-deftones": {
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Chi_Cheng.jpg"
+    },
+    "milo-aukerman-90s-descendents": {
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/de/Descendents_2014-09-28_02.JPG"
+    },
+    "stephen-egerton-90s-descendents": {
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/04/Descendents_2014-09-28_03.jpg"
+    },
+    "karl-alvarez-90s-descendents": {
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Descendents_2014-09-28_05.JPG"
+    },
+    "john-illsley-80s-dire-straits": {
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1b/2015_John_Illsley_by_2eight-_DSC2851.jpg"
+    },
+    "pick-withers-80s-dire-straits": {
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Pick_Withers.jpg"
+    },
+    "david-draiman-00s-disturbed": {
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b8/2016_RiP_Disturbed_-_by_2eight_-_DSC7890.jpg"
+    },
+    "art-alexakis-90s-everclear": {
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/84/Art_Alexakis.jpg"
+    },
+    "mike-patton-90s-faith-no-more": {
+      "imageUrl": "/media/musicians/mike-patton-90s-faith-no-more.png?v=1781423244378"
+    },
+    "jim-martin-90s-faith-no-more": {
+      "imageUrl": "/media/musicians/jim-martin-90s-faith-no-more.png?v=1781423159825"
+    },
+    "dave-grohl-90s-foo-fighters": {
+      "imageUrl": "/media/musicians/dave-grohl-90s-foo-fighters.png?v=1781423273603"
+    },
+    "pat-smear-90s-foo-fighters": {
+      "imageUrl": "/media/musicians/pat-smear-90s-foo-fighters.png?v=1781423291809"
+    },
+    "nate-mendel-90s-foo-fighters": {
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/60/Nate_Mendel_2011-12-05_Adelaide_Oval_Australia.jpg"
+    },
+    "christian-andreu-00s-gojira": {
+      "imageUrl": "/media/musicians/christian-andreu-00s-gojira.png?v=1781423376497"
+    },
+    "jean-michel-labadie-00s-gojira": {
+      "imageUrl": "/media/musicians/jean-michel-labadie-00s-gojira.png?v=1781423394710"
+    },
+    "billie-joe-armstrong-90s-green-day": {
+      "imageUrl": "/media/musicians/billie-joe-armstrong-90s-green-day.png?v=1781423414070"
+    },
+    "mike-dirnt-90s-green-day": {
+      "imageUrl": "/media/musicians/mike-dirnt-90s-green-day.png?v=1781423430333"
+    },
+    "tre-cool-90s-green-day": {
+      "imageUrl": "/media/musicians/tre-cool-90s-green-day.png?v=1781423443603"
+    },
+    "duff-mckagan-80s-guns-n-roses": {
+      "imageUrl": "/media/musicians/duff-mckagan-80s-guns-n-roses.png?v=1781423513872"
+    },
+    "steven-adler-80s-guns-n-roses": {
+      "imageUrl": "/media/musicians/steven-adler-80s-guns-n-roses.png?v=1781423527423"
+    },
+    "bruce-dickinson-80s-iron-maiden": {
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Bruce_Dickinson_-_The_Mandrake_Project_%2812%29_%2853817871253%29_%28cropped%29.jpg"
+    },
+    "dave-murray-80s-iron-maiden": {
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Soundwave_Iron_Maiden_%285508224503%29_%28cropped%29.jpg"
+    },
+    "adrian-smith-80s-iron-maiden": {
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/20/Adrian_Smith_%40_Bluesfest_July_6_2010.jpg"
+    },
+    "perry-farrell-80s-jane-s-addiction": {
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/81/Perry_Farrell_Sundance_2024_Cropped.jpg"
+    },
+    "dave-navarro-80s-jane-s-addiction": {
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Jane%27s_Addiction_Classic_and_Final_Lineup_Collage.jpg"
+    },
+    "eric-avery-80s-jane-s-addiction": {
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Eric_Avery_2021.jpg"
+    },
+    "stephen-perkins-80s-jane-s-addiction": {
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Jane%E2%80%99s_Addiction_-_Teatro_Caupolic%C3%A1n_%2810339170413%29.jpg"
+    },
+    "k-k-downing-80s-judas-priest": {
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/de/K._K._Downing._Motocultor_2024.jpg"
+    },
+    "glenn-tipton-80s-judas-priest": {
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/23/Glenn_Tipton2005_%28cropped%29.jpg"
+    },
+    "ian-hill-80s-judas-priest": {
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Ian_Hill_TonsofRock24.jpg"
+    },
+    "brian-head-welch-90s-korn": {
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/cf/2014228185345_2014-08-16_Rock%27n%27Heim_-_Sven_-_1D_X_-_475_-_DV3P9336_mod_crop.jpg"
+    },
+    "reginald-fieldy-arvizu-90s-korn": {
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/59/Korn_03312006_Milwaukee.jpg"
+    },
+    "david-silveria-90s-korn": {
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/57/David_Silveria_Korn_2006_%28cropped%29.jpg"
+    },
+    "randy-blythe-00s-lamb-of-god": {
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/39/LAMB_OF_GOD_%40_Rock_Al_Parque_2017_%2835391620650%29.jpg"
+    },
+    "mark-morton-00s-lamb-of-god": {
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e3/2015_RiP_Lamb_of_God_-_Mark_Morton_by_2eight_-_DSC5322.jpg"
+    },
+    "willie-adler-00s-lamb-of-god": {
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e2/2015_RiP_Lamb_of_God_-_by_2eight_-_8SC9743.jpg"
+    },
+    "john-campbell-00s-lamb-of-god": {
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e2/2015_RiP_Lamb_of_God_-_by_2eight_-_8SC9743.jpg"
+    },
+    "fred-durst-90s-limp-bizkit": {
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Fred_Durst_2021_%28cropped%29.jpg"
+    },
+    "wes-borland-90s-limp-bizkit": {
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/63/Limp_Bizkit_%28cropped%29.jpg"
+    },
+    "sam-rivers-90s-limp-bizkit": {
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4f/13-06-07_RaR_LB_Sam_Rivers_01.jpg"
+    },
+    "mike-shinoda-00s-linkin-park": {
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Linkin_Park_-_From_Zero_Lead_Press_Photo_-_James_Minchin_III_%28Mike_Shinoda%29.jpg"
+    },
+    "brad-delson-00s-linkin-park": {
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Brad_Delson_-_From_Zero_Lead_Press_Photo_-_James_Minchin_III_%28cropped%29.jpg"
+    },
+    "dave-phoenix-farrell-00s-linkin-park": {
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/77/Linkin_Park_-_From_Zero_Lead_Press_Photo_-_James_Minchin_III_%28Dave_Farrell_headshot%29.jpg"
+    },
+    "rob-bourdon-00s-linkin-park": {
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/27/Bourdon-Rock%27n%27Heim_2015-zoom.png"
+    },
+    "chad-gracey-90s-live": {
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Tgfchadgface.jpg"
+    },
+    "brann-dailor-00s-mastodon": {
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Ursynalia_2012%2C_Mastodon_03.jpg"
+    },
+    "brian-yale-90s-matchbox-twenty": {
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Beckton_Bus_Station_-_horse_statue_viewed_from_south_in_March_2011.jpg"
+    },
+    "paul-doucette-90s-matchbox-twenty": {
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Matchbox_twenty_in_MAA_03.jpg"
+    },
+    "dave-mustaine-80s-megadeth": {
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3c/HF2022Megadeth_2.jpg"
+    },
+    "marty-friedman-80s-megadeth": {
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/99/Marty_Friedman_in_Tokyo--2009-03.jpg"
+    },
+    "david-ellefson-80s-megadeth": {
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/29/David_Ellefson_%28cropped2%29.jpg"
+    },
+    "lars-ulrich-80s-metallica": {
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Lars_Ulrich_2025_Marvel_Stadium_%285%29.jpg"
+    },
+    "doyle-wolfgang-von-frankenstein-80s-misfits": {
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Doyle_%28The_Misfits%29_%2843272300171%29_%28cropped%29.jpg"
+    },
+    "robo-80s-misfits": {
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Misfits3.jpg"
+    },
+    "nikki-sixx-80s-motley-crue": {
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Nikki_Sixx.jpg"
+    },
+    "tommy-lee-80s-motley-crue": {
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/24/Tommy_Lee_2012.jpg"
+    },
+    "lemmy-kilmister-80s-motorhead": {
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/84/Lemmy-02.jpg"
+    },
+    "fast-eddie-clarke-80s-motorhead": {
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Fast_Eddie_Clarke%2C_2009.jpg"
+    },
+    "phil-taylor-80s-motorhead": {
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Phil_Taylor_%281982%29.jpg"
+    },
+    "ryan-martinie-00s-mudvayne": {
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/18/RDMMusikmesse.jpg"
+    },
+    "matthew-mcdonough-00s-mudvayne": {
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c2/MudvayneLive2021.png"
+    },
+    "gerard-way-00s-my-chemical-romance": {
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e1/MCR820_%28cropped%29.jpg"
+    },
+    "ray-toro-00s-my-chemical-romance": {
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/63/Ray_LLtBP_Tampa_%28cropped%29.jpg"
+    },
+    "frank-iero-00s-my-chemical-romance": {
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Iero_Frank_2014_Hanna_jon_2.jpg"
+    },
+    "chad-kroeger-00s-nickelback": {
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a0/%D0%A7%D0%B0%D0%B4.jpg"
+    },
+    "ryan-peake-00s-nickelback": {
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/15/Ryan_Peake_Nickelback_%28cropped%29.jpg"
+    },
+    "mike-kroeger-00s-nickelback": {
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Mike_Kroeger_live_with_Nickelback_in_2023_%28cropped%29.jpg"
+    },
+    "kurt-cobain-90s-nirvana": {
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/37/Nirvana_around_1992_%28cropped%29.jpg"
+    },
+    "eric-melvin-90s-nofx": {
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d1/NOFX_%40_Arena_Joondalup_%2812_12_2010%29_%285272637863%29.jpg"
+    },
+    "erik-sandin-90s-nofx": {
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d6/2023_Rock_im_Park_-_NOFX_-_Erik_Sandin_-_by_2eight_-_ZSC3654.jpg"
+    },
+    "liam-gallagher-90s-oasis": {
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/05/OasisCardiff040725-88_-_54640244776_%28landscape_crop%29_%28cropped%29.jpg"
+    },
+    "noel-gallagher-90s-oasis": {
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Oasis_-_Principality_Stadium%2C_Cardiff_-_Friday_4th_July_2025_member_collage.jpg"
+    },
+    "ozzy-osbourne-80s-ozzy-osbourne": {
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Blizzard_of_Ozz.jpg"
+    },
+    "rex-brown-90s-pantera": {
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Rex_Brown.jpg"
+    },
+    "vinnie-paul-90s-pantera": {
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/55/VinniePaul2008.JPG"
+    },
+    "winston-mccall-10s-parkway-drive": {
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/70/Parkway_Drive_-_2018153232156_2018-06-02_Rock_am_Ring_-_5DS_R_-_0299_-_5DSR6245.jpg"
+    },
+    "luke-kilpatrick-10s-parkway-drive": {
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/70/Parkway_Drive_-_2018153232156_2018-06-02_Rock_am_Ring_-_5DS_R_-_0299_-_5DSR6245.jpg"
+    },
+    "jeff-ling-10s-parkway-drive": {
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/70/Parkway_Drive_-_2018153232156_2018-06-02_Rock_am_Ring_-_5DS_R_-_0299_-_5DSR6245.jpg"
+    },
+    "ben-gordon-10s-parkway-drive": {
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/70/Parkway_Drive_-_2018153232156_2018-06-02_Rock_am_Ring_-_5DS_R_-_0299_-_5DSR6245.jpg"
+    },
+    "mike-mccready-90s-pearl-jam": {
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/34/Mike_McCready_2009.jpg"
+    },
+    "stone-gossard-90s-pearl-jam": {
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Stone_Gossard_2014_%28cropped%29.jpg"
+    },
+    "jeff-ament-90s-pearl-jam": {
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Jeff-Ament.jpg"
+    },
+    "dave-abbruzzese-90s-pearl-jam": {
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/55/Dave_Abbruzzese_Bix_Stuttgart.jpg"
+    },
+    "jason-thirsk-90s-pennywise": {
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Pennywise_Warped_Tour_%28cropped%29.jpg"
+    },
+    "byron-mcmackin-90s-pennywise": {
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Pennywise_Warped_Tour_%28cropped%29.jpg"
+    },
+    "spencer-sotelo-10s-periphery": {
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/26/20151122_Eindhoven_Epic_Metal_Fest_Periphery_0116.jpg"
+    },
+    "matt-halpern-10s-periphery": {
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/80/Periphery_07_%285587554964%29.jpg"
+    },
+    "black-francis-80s-pixies": {
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Pixies_KTF_March_2024_%28cropped%29.jpg"
+    },
+    "joey-santiago-80s-pixies": {
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/de/POS17_%40Kristsll-258_%2835617119940%29_%28cropped%29.jpg"
+    },
+    "kim-deal-80s-pixies": {
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ab/The_Breeders_%2826945165257%29.jpg"
+    },
+    "david-lovering-80s-pixies": {
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3e/David_Lovering_cropped.jpg"
+    },
+    "larry-ler-lalonde-90s-primus": {
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/36/Larry_LaLonde_Primus_Pordenone_2012.jpg"
+    },
+    "tim-herb-alexander-90s-primus": {
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Tim_Alexander_of_Primus.jpg"
+    },
+    "nick-oliveri-00s-queens-of-the-stone-age": {
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Nick_Oliveri_portrait_2009-01-07.jpg"
+    },
+    "joey-castillo-00s-queens-of-the-stone-age": {
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Joey_Castillo_with_the_Eagles_of_Death_Metal_2009_%28cropped%29.jpg"
+    },
+    "bill-berry-80s-r-e-m": {
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Billberry.jpg"
+    },
+    "colin-greenwood-90s-radiohead": {
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/35/RadioheadO2241125-40_%2854953105861%29_%28cropped%29.jpg"
+    },
+    "phil-selway-90s-radiohead": {
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ef/RadioheadO2211125-152_%2854955848039%29_%28cropped%29.jpg"
+    },
+    "zack-de-la-rocha-90s-rage-against-the-machine": {
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Zach_de_la_Rocha_at_2007_Coachella_Valley_Music_and_Arts_Festival.jpg"
+    },
+    "tom-morello-90s-rage-against-the-machine": {
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Tom_Morello.jpg"
+    },
+    "till-lindemann-90s-rammstein": {
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Till_Lindemann_-_2017287140953_2017-10-14_Buchmesse.jpg"
+    },
+    "richard-kruspe-90s-rammstein": {
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/00/Richard_Zven_Kruspe_au_Z%C3%A9nith_de_Nantes_en_2009_%28cropped%29.jpg"
+    },
+    "christian-flake-lorenz-90s-rammstein": {
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b0/RammsteinFlake.jpg"
+    },
+    "tim-armstrong-90s-rancid": {
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b4/HF2023Rancid_2.jpg"
+    },
+    "lars-frederiksen-90s-rancid": {
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Lars_Frederickson_GalaxyCon_Nashville_052026-4.jpg"
+    },
+    "matt-freeman-90s-rancid": {
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/ff/2017_Rancid_Matt_Freeman.jpg"
+    },
+    "flea-90s-red-hot-chili-peppers": {
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/15/2016_Red_Hot_Chili_Peppers_-_Michael_Flea_Balzary_%28cropped%29.jpg"
+    },
+    "chad-smith-90s-red-hot-chili-peppers": {
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/14/RHCP_Live_in_London_26_June_2022.jpg"
+    },
+    "dennis-lyxzen-90s-refused": {
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/52/Dennis_Lyxz%C3%A9n_of_Refused_%28cropped%29.jpg"
+    },
+    "david-sandstrom-90s-refused": {
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b9/David_Sandstr%C3%B6m_of_Refused.jpg"
+    },
+    "quan-yeomans-90s-regurgitator": {
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/2/21/Quan_Yeomans.jpg"
+    },
+    "ben-ely-90s-regurgitator": {
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Regurgitator_2018-08-10.jpg"
+    },
+    "martin-lee-90s-regurgitator": {
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Regurgitator_2018-08-10.jpg"
+    },
+    "max-cavalera-90s-sepultura": {
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/43/Soulfly_With_Full_Force_2018_03_%28cropped%29.jpg"
+    },
+    "andreas-kisser-90s-sepultura": {
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b8/2018_Sepultura_-_by_2eight_-_DSC8955.jpg"
+    },
+    "daniel-johns-90s-silverchair": {
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/84/Daniel_Johns_Big_Day_Out_08.jpg"
+    },
+    "jeff-hanneman-80s-slayer": {
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Jeff_Hanneman_f9e_o.jpg"
+    },
+    "dave-lombardo-80s-slayer": {
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/df/Dave_Lombardo_8.5.14.jpeg"
+    },
+    "corey-taylor-00s-slipknot": {
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1d/20180602_N%C3%BCrnberg_Rock_im_Park_Stone_Sour_0270_%28cropped%29.jpg"
+    },
+    "mick-thomson-00s-slipknot": {
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/43/Slipknot_-_The_Grey_Chapter_Tour_2016_-_D%C3%BCsseldorf_-_01830705_-_Leonhard_Kreissig_-_Canon_EOS_5D_Mark_III_%28cropped%29.jpg"
+    },
+    "thurston-moore-80s-sonic-youth": {
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Thurston_Moore_at_100_Club_02_%282018%29_%28cropped%29.jpg"
+    },
+    "chris-cornell-90s-soundgarden": {
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/58/ChrisCornellTIFFSept2011.jpg"
+    },
+    "kram-90s-spiderbait": {
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/62/Spiderbait_2009.jpg"
+    },
+    "janet-english-90s-spiderbait": {
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/62/Spiderbait_2009.jpg"
+    },
+    "damian-whitty-90s-spiderbait": {
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/62/Spiderbait_2009.jpg"
+    },
+    "scott-weiland-90s-stone-temple-pilots": {
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/53/Scott_Weiland_onstage_with_a_mic--2009-07.jpg"
+    },
+    "dean-deleo-90s-stone-temple-pilots": {
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Dean_DeLeo.jpg"
+    },
+    "robert-deleo-90s-stone-temple-pilots": {
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/82/Robert_DeLeo_2024_2_%28cropped%29.jpg"
+    },
+    "cone-mccaslin-00s-sum-41": {
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/96/2023_Rock_im_Park_-_Sum_41_-_Jason_McCaslin_-_by_2eight_-_ZSC3353_%28cropped%29.jpg"
+    },
+    "steve-jocz-00s-sum-41": {
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/33/Sum_41_%287897027290%29_%28cropped%29.jpg"
+    },
+    "serj-tankian-00s-system-of-a-down": {
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Serj_Tankian_performing_2026.png"
+    },
+    "daron-malakian-00s-system-of-a-down": {
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/79/Daron_Malakian_live_2026.png"
+    },
+    "shavo-odadjian-00s-system-of-a-down": {
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/45/Shavo_Odadjian_live_2026.png"
+    },
+    "john-dolmayan-00s-system-of-a-down": {
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/aa/John_dolmayan_%28cropped%29.jpg"
+    },
+    "david-byrne-80s-talking-heads": {
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Once_in_a_Lifetime_by_Talking_Heads_US_vinyl_A-side.jpg"
+    },
+    "chuck-billy-80s-testament": {
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Chuck_Billy_-_Testament_Rockharz_2022_%28cropped%29.jpg"
+    },
+    "alex-skolnick-80s-testament": {
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Testament_-_2019213170406_2019-08-01_Wacken_-_1368_-_AK8I8205.jpg"
+    },
+    "eric-peterson-80s-testament": {
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/52/TESTAMENT-%40-Luppolo-In-Rock-2022-Cremona-17-07-2022-05_%2852555338158%29_%28cropped%29.jpg"
+    },
+    "greg-christian-80s-testament": {
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Testament_22.jpg"
+    },
+    "paul-simonon-80s-the-clash": {
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Paul_Simonon_mg_6692_crop.jpg"
+    },
+    "topper-headon-80s-the-clash": {
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Topper2018.jpg"
+    },
+    "robert-smith-80s-the-cure": {
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/26/Robert_Smith_%28musician%29_crop.jpg"
+    },
+    "simon-gallup-80s-the-cure": {
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Simon_Gallup_and_Jason_Cooper_from_The_Cure_in_2012_%28cropped%29.jpg"
+    },
+    "lol-tolhurst-80s-the-cure": {
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Lol_Tolhurst_2020.jpg"
+    },
+    "brandon-flowers-00s-the-killers": {
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Brandon_Flowers_by_Sarah_Junker.jpg"
+    },
+    "dave-keuning-00s-the-killers": {
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Dave_Brent_Keuning.tif"
+    },
+    "mark-stoermer-00s-the-killers": {
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ae/KillersBST080717-38_%2835742625041%29_%28cropped%29_%28cropped%29.jpg"
+    },
+    "dexter-holland-90s-the-offspring": {
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/62/The_Offspring_-_Rock_im_Park_2022_-_IMG_1658_-_2.jpg"
+    },
+    "kevin-noodles-wasserman-90s-the-offspring": {
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/69/The_Offspring_-_Rock_im_Park_2022_-_IMG_1689_-_1.jpg"
+    },
+    "greg-k-90s-the-offspring": {
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/79/GregKLights.jpg"
+    },
+    "james-iha-90s-the-smashing-pumpkins": {
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8e/The_Smashing_Pumpkins_1991-12-12_%284%29.jpg"
+    },
+    "d-arcy-wretzky-90s-the-smashing-pumpkins": {
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6c/D%27arcy_Wretzky.jpg"
+    },
+    "jimmy-chamberlin-90s-the-smashing-pumpkins": {
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f0/The_Smashing_Pumpkins_-_2019158212838_2019-06-07_Rock_am_Ring_-_1276_-_B70I8576_%28cropped%29.jpg"
+    },
+    "morrissey-80s-the-smiths": {
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/68/The_Smiths_%281984_Sire_publicity_photo%29_002.jpg"
+    },
+    "quinn-allman-00s-the-used": {
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Allden.jpg"
+    },
+    "jeph-howard-00s-the-used": {
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/72/The_Used_January_2021.jpg"
+    },
+    "branden-steineckert-00s-the-used": {
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/37/HF2023Rancid_1.jpg"
+    },
+    "maynard-james-keenan-90s-tool": {
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/77/20180602_N%C3%BCrnberg_Rock_im_Park_A_Perfect_Circle_0029_%28cropped%29.jpg"
+    },
+    "adam-jones-90s-tool": {
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/70/Adam_Jones_by_Gage_Skidmore.jpg"
+    },
+    "justin-chancellor-90s-tool": {
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d0/JustinChancellorTampa2022.jpg"
+    },
+    "brendan-yates-20s-turnstile": {
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Turnstile_Full_Force_2019_06.jpg"
+    },
+    "franz-lyons-20s-turnstile": {
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Turnstile_Full_Force_2019_02.jpg"
+    },
+    "pat-mccrory-20s-turnstile": {
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Turnstile_Full_Force_2019_02.jpg"
+    },
+    "daniel-fang-20s-turnstile": {
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Turnstile_Full_Force_2019_02.jpg"
+    },
+    "rohan-ro-hayes-10s-twelve-foot-ninja": {
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Twelve_Foot_Ninja_%40_Euroblast_Festival_2017_122.jpg"
+    },
+    "shane-russ-russell-10s-twelve-foot-ninja": {
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Twelve_Foot_Ninja_%40_Euroblast_Festival_2017_122.jpg"
+    },
+    "damon-mckinnon-10s-twelve-foot-ninja": {
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Twelve_Foot_Ninja_%40_Euroblast_Festival_2017_122.jpg"
+    },
+    "bono-80s-u2": {
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/94/Bono_singing_in_Indianapolis_on_Joshua_Tree_Tour_2017_9-10-17.jpg"
+    },
+    "the-edge-80s-u2": {
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/99/U2_in_Melbourne_%2849094944907%29_%28cropped%29.jpg"
+    },
+    "adam-clayton-80s-u2": {
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/35/Adam_Clayton_in_San_Jose_on_Experience_and_Innocence_Tour_5-8-18.jpg"
+    },
+    "larry-mullen-jr-80s-u2": {
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/eb/U2_in_San_Jose_%2841983985982%29_%28cropped%29.jpg"
+    },
+    "david-lee-roth-80s-van-halen": {
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fb/David_Lee_Roth_Smashbox_2008.jpg"
+    },
+    "eddie-van-halen-80s-van-halen": {
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Alex_Van_Halen_-_Van_Halen_Live_%28cropped%29.jpg"
+    },
+    "michael-anthony-80s-van-halen": {
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/88/Michael_Anthony_%28bassist%29.jpg"
+    },
+    "rivers-cuomo-90s-weezer": {
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/77/Rivers_Cuomo_Weezer_Tons_of_Rock_2025-23_%28cropped%29.jpg"
+    },
+    "brian-bell-90s-weezer": {
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Brian_Bell_Weezer_Tons_of_Rock_2025-2_%28cropped%29.jpg"
+    },
+    "matt-sharp-90s-weezer": {
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Matt_Sharp_photo_by_Josh_Alder.jpg"
+    },
+    "henry-holmes-20s-wet-leg": {
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/51/Wet_Leg_O2_Academy_Brixton_2025-05-24_-29.jpg"
+    },
+    "david-coverdale-80s-whitesnake": {
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/80/David_Coverdale_at_Hellfest_2013.JPG"
+    },
+    "john-sykes-80s-whitesnake": {
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d9/John_Sykes_Vauhtiajot_2008_%283x4_cropped%29.jpg"
+    },
+    "andrew-stockdale-00s-wolfmother": {
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/71/Deichbrand2018-Wolfmother-41.jpg"
+    },
+    "chris-ross-00s-wolfmother": {
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/67/Chris_Ross_24-05-2007_Portugal.jpg"
+    },
+    "myles-heskett-00s-wolfmother": {
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Deichbrand2018-Wolfmother-39.jpg"
+    },
+    "mike-cox-90s-coal-chamber": {
+      "imageUrl": "/media/musicians/mike-cox-90s-coal-chamber.png?v=1781422962232"
+    },
+    "brian-nolan-90s-everclear": {
+      "imageUrl": "/media/musicians/brian-nolan-90s-everclear.png?v=1781423137416"
+    },
+    "roddy-bottum-90s-faith-no-more": {
+      "imageUrl": "/media/musicians/roddy-bottum-90s-faith-no-more.png?v=1781423181309"
+    },
+    "billy-gould-90s-faith-no-more": {
+      "imageUrl": "/media/musicians/billy-gould-90s-faith-no-more.png?v=1781423202368"
+    },
+    "mike-bordin-90s-faith-no-more": {
+      "imageUrl": "/media/musicians/mike-bordin-90s-faith-no-more.png?v=1781423214791"
+    },
+    "taylor-hawkins-90s-foo-fighters": {
+      "imageUrl": "/media/musicians/taylor-hawkins-90s-foo-fighters.png?v=1781423310115"
+    },
+    "joe-duplantier-00s-gojira": {
+      "imageUrl": "/media/musicians/joe-duplantier-00s-gojira.png?v=1781423338895"
+    },
+    "mario-duplantier-00s-gojira": {
+      "imageUrl": "/media/musicians/mario-duplantier-00s-gojira.png?v=1781423358956"
+    },
+    "axl-rose-80s-guns-n-roses": {
+      "imageUrl": "/media/musicians/axl-rose-80s-guns-n-roses.png?v=1781423469516"
+    },
+    "slash-80s-guns-n-roses": {
+      "imageUrl": "/media/musicians/slash-80s-guns-n-roses.png?v=1781423484818"
+    },
+    "izzy-stradlin-80s-guns-n-roses": {
+      "imageUrl": "/media/musicians/izzy-stradlin-80s-guns-n-roses.png?v=1781423499843"
+    },
+    "john-stanier-90s-helmet": {
+      "imageUrl": "/media/musicians/john-stanier-90s-helmet.png?v=1781423566568"
+    },
+    "page-hamilton-90s-helmet": {
+      "imageUrl": "/media/musicians/page-hamilton-90s-helmet.png?v=1781423581830"
+    },
+    "henry-bogdan-90s-helmet": {
+      "imageUrl": "/media/musicians/henry-bogdan-90s-helmet.png?v=1781423598279"
+    },
+    "peter-mengede-90s-helmet": {
+      "imageUrl": "/media/musicians/peter-mengede-90s-helmet.png?v=1781423612631"
+    }
+  }
+}
